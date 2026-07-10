@@ -2,13 +2,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // ==========================================================================
     // 0. API CONFIGURATION
     // ==========================================================================
-    // Localhostda mahaliy serverdan foydalanamiz.
-    // Netlify'ga joylanganda, agar Netlify proxy redirect o'rnatilgan bo'lsa, relative path '/api' ishlatiladi.
-    // Agar to'g'ridan-to'g'ri backend serverga so'rov yuborish kerak bo'lsa, quyidagi o'zgaruvchini o'zingizning backend URL'ingiz bilan almashtiring.
+    // O'zingizning haqiqiy NestJS backend URL'ingizni quyidagi o'zgaruvchiga yozing (oxirida / belgisiz):
+    const DEPLOYED_BACKEND_URL = 'https://your-nestjs-backend.onrender.com';
+
     const API_BASE = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
         ? 'http://localhost:3001'
-        : 'https://sening-backend-urling.com';
-         ''; // Agar bo'sh qolsa, Netlify proxy redirect (netlify.toml) orqali ishlaydi.
+        : DEPLOYED_BACKEND_URL;
 
     // ==========================================================================
     // 1. STATE VARIABLES
@@ -727,7 +726,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         } catch (err) {
             loadingDiv.remove();
-            appendChatMessage('bot', "Afsuski, AI xizmati bilan bog'lanishda muammo yuz berdi. Iltimos, keyinroq urinib ko'ring.");
+            console.error("AI Chat Connection Error:", err);
+            appendChatMessage('bot', `Afsuski, AI xizmati bilan bog'lanishda muammo yuz berdi. <br><br><strong>Xatolik tafsiloti:</strong> <code>${err.message}</code><br><br><small>Havola: <code>${API_BASE}/api/ai-chat</code>. Iltimos, backend xizmati ishlayotganini hamda NestJS (CORS) sozlamalari to'g'riligini tekshiring.</small>`);
         }
     });
 
