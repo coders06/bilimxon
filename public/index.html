@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilimxon - Interaktiv Bilim va Ziyo Platformasi</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="dark-theme">
+    
+    
+    <!-- Background Video for fairy tale cartoon & sound -->
+    <div class="app-video-bg">
+        <video id="app-bg-video" autoplay loop muted playsinline>
+            <source src="/assets/video/bg_fairy_tale.mp4" type="video/mp4">
+        </video>
+        <div class="video-overlay"></div>
+    </div>
+
+    <!-- Floating Audio Reminder Banner -->
+    <div class="audio-reminder-banner" id="audio-reminder">
+        <i class="fas fa-volume-up"></i> Salomlashish ovozi va musiqani yoqish uchun istalgan joyga bosing!
+    </div>
+    <!-- Top Premium Header -->
+    <header class="app-header">
+        <div class="header-container">
+            <div class="header-left">
+                <button class="menu-toggle-btn" id="menu-toggle" title="Bo'limlar menyusi">
+                    <i class="fas fa-bars"></i> <span class="menu-text">Bo'limlar</span>
+                </button>
+                <a href="#" class="logo">
+                    <i class="fas fa-book-open logo-icon"></i> Bilimxon
+                </a>
+            </div>
+            
+            <div class="header-right">
+                <!-- Music Toggle Button -->
+                <button class="action-circle-btn" id="music-toggle" title="Musiqani yoqish/o'chirish">
+                    <i class="fas fa-volume-mute" id="music-icon"></i>
+                </button>
+                
+                <!-- Theme toggle -->
+                <button class="action-circle-btn" id="theme-toggle" title="Tungi/Yorug' rejim">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Slide-out Navigation Drawer -->
+    <div class="nav-drawer-overlay" id="nav-drawer">
+        <div class="nav-drawer-content card-glass">
+            <div class="drawer-header">
+                <h3><i class="fas fa-compass text-gold"></i> Bo'limlar</h3>
+                <button class="drawer-close-btn" id="drawer-close">&times;</button>
+            </div>
+            <div class="drawer-divider"></div>
+            <nav class="drawer-nav">
+                <button class="drawer-item active" data-target="children">
+                    <i class="fas fa-child"></i> <span>Bolalar uchun</span>
+                </button>
+                <button class="drawer-item" data-target="adults">
+                    <i class="fas fa-user-friends"></i> <span>Kattalar uchun</span>
+                </button>
+                <button class="drawer-item" data-target="history">
+                    <i class="fas fa-history"></i> <span>Tariximizni o'rganamiz</span>
+                </button>
+                <button class="drawer-item" data-target="ai-tutor">
+                    <i class="fas fa-robot"></i> <span>AI Bilimdoni</span>
+                </button>
+                <button class="drawer-item" data-target="admin-section">
+                    <i class="fas fa-cog"></i> <span>Admin Paneli</span>
+                </button>
+            </nav>
+            
+            <div class="drawer-divider"></div>
+            
+            <!-- Custom Language Selector inside Drawer Menu for perfect spacing and aesthetics -->
+            <div class="drawer-lang-selector">
+                <span class="drawer-lang-title"><i class="fas fa-globe"></i> Til / Язык / Language:</span>
+                <div class="custom-lang-selector" id="custom-lang-selector">
+                    <button class="lang-selected-btn" id="lang-selected-btn" title="Tanlangan til / Выбранный язык / Select language">
+                        <span class="flag-icon">🇺🇿</span> <span class="lang-label">UZ</span> <i class="fas fa-chevron-down arrow-icon"></i>
+                    </button>
+                    <div class="lang-dropdown-menu card-glass" id="lang-dropdown-menu">
+                        <div class="lang-option active" data-value="uz">
+                            <span class="flag-icon">🇺🇿</span> O'zbekcha
+                        </div>
+                        <div class="lang-option" data-value="en">
+                            <span class="flag-icon">🇺🇸</span> English
+                        </div>
+                        <div class="lang-option" data-value="ru">
+                            <span class="flag-icon">🇷🇺</span> Русский
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="drawer-footer">
+                <p><i class="fas fa-map-marker-alt"></i> Toshkent, Chilonzor</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Mobile Panel Tabs (Only visible on screens <= 992px to toggle between Left, Middle, Right panels) -->
+    <div class="mobile-panel-switcher">
+        <button class="mobile-switch-btn active" data-show="left-panel"><i class="fas fa-list-ul"></i> Zallar/Boblar</button>
+        <button class="mobile-switch-btn" data-show="middle-panel"><i class="fas fa-book-reader"></i> Mutolaa</button>
+        <button class="mobile-switch-btn" data-show="right-panel"><i class="fas fa-photo-video"></i> Multimedia</button>
+    </div>
+
+    <!-- Main Platform Grid -->
+    <main class="platform-container">
+        
+        <!-- LEFT PANEL: Library Catalog & Chapters -->
+        <aside class="platform-panel left-panel active-mobile" id="left-panel">
+            <div class="panel-header">
+                <h3>Kutubxona <span class="badge" id="books-count">0</span></h3>
+            </div>
+            <div class="panel-content">
+                <!-- Search & Filters -->
+                <div class="search-wrapper">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="book-search" placeholder="Kitoblarni qidirish...">
+                </div>
+                
+                <!-- Book Cards Grid -->
+                <div class="book-list" id="book-list-container">
+                    <!-- Preseeded book cards will render dynamically here -->
+                </div>
+
+                <!-- Active Book Info & Chapters -->
+                <div class="active-book-info" id="active-book-info" style="display: none;">
+                    <div class="section-divider"></div>
+                    <div class="book-meta-card">
+                        <img src="" alt="Book Cover" class="book-cover-img" id="active-book-cover">
+                        <div class="book-meta-details">
+                            <h4 id="active-book-title">Kitob nomi</h4>
+                            <p class="author-tag"><i class="fas fa-pen-nib"></i> <span id="active-book-author">Muallif</span></p>
+                            <p class="genre-tag" id="active-book-genre">Janr</p>
+                        </div>
+                    </div>
+                    <p class="book-desc-short" id="active-book-desc">Qisqacha tavsif...</p>
+                    
+                    <h4 class="chapters-title"><i class="fas fa-list-ol"></i> Boblar Ro'yxati</h4>
+                    <div class="chapters-list" id="chapters-list-container">
+                        <!-- Chapters list items render dynamically -->
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- MIDDLE PANEL: Interactive Reading Area -->
+        <section class="platform-panel middle-panel active-mobile" id="middle-panel">
+            <div class="panel-header reader-controls">
+                <div class="reader-mode-tags">
+                    <span class="mode-tag"><i class="fas fa-glasses"></i> Mutolaa rejimi</span>
+                </div>
+                
+                <!-- Font & Theme Controls -->
+                <div class="style-toolbar">
+                    <button class="toolbar-btn" id="font-decrease" title="Shriftni kichiklashtirish"><i class="fas fa-minus"></i></button>
+                    <span class="toolbar-label" id="font-size-indicator">18px</span>
+                    <button class="toolbar-btn" id="font-increase" title="Shriftni kattalashtirish"><i class="fas fa-plus"></i></button>
+                    <div class="toolbar-divider"></div>
+                    <!-- Reader themes -->
+                    <button class="theme-dot dark active" data-theme="dark" title="To'q rejim"></button>
+                    <button class="theme-dot sepia" data-theme="sepia" title="Sepiya rejim"></button>
+                    <button class="theme-dot light" data-theme="light" title="Yorug' rejim"></button>
+                </div>
+            </div>
+            
+            <div class="panel-content reader-body-container">
+                <!-- Welcome/Instruction screen -->
+                <div class="reader-welcome" id="reader-welcome">
+                    <div class="welcome-box">
+                        <i class="fas fa-book-reader welcome-icon"></i>
+                        <h2>Bilimxon olamiga xush kelibsiz!</h2>
+                        <p>Chap tarafdagi kutubxona bo'limidan o'zingiz xohlagan kitobni va uning bobini tanlang. O'qishni boshlaganingizdan so'ng, o'ng tomonda bobga mos multimedia materiallari, xaritalar va testlar avtomatik ravishda yuklanadi.</p>
+                        <div class="tips-box">
+                            <h4><i class="fas fa-lightbulb text-gold"></i> Tezkor tavsiyalar:</h4>
+                            <ul>
+                                <li><strong>AI Bilimdoni</strong> yordamida har qanday bobni osonlashtirib so'rashingiz mumkin.</li>
+                                <li>O'qib bo'lgach, <strong>test topshirib</strong> maxsus sertifikatga ega bo'ling.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Active Reader Screen -->
+                <div class="reader-main" id="reader-main" style="display: none;">
+                    <div class="reader-header">
+                        <h2 id="reader-chapter-title">Bob sarlavhasi</h2>
+                        <button class="bookmark-btn" id="reader-bookmark" title="Bookmark qo'shish">
+                            <i class="far fa-bookmark"></i>
+                        </button>
+                    </div>
+                    
+                    <!-- Main Text Container -->
+                    <article class="reader-text" id="reader-text-content">
+                        <!-- Dynamic text content loaded here -->
+                    </article>
+
+                    <!-- Sources citations container -->
+                    <div class="sources-card" id="sources-card">
+                        <h4><i class="fas fa-scroll text-gold"></i> Ishonchli Manbalar va Keltirmalar:</h4>
+                        <ol id="sources-list">
+                            <!-- Citations will load dynamically -->
+                        </ol>
+                    </div>
+
+                    <!-- Chapter Navigation Buttons -->
+                    <div class="chapter-navigation">
+                        <button class="nav-arrow-btn" id="prev-chapter-btn"><i class="fas fa-chevron-left"></i> Oldingi bob</button>
+                        <button class="nav-arrow-btn" id="next-chapter-btn">Keyingi bob <i class="fas fa-chevron-right"></i></button>
+                    </div>
+
+                    <!-- Interactive Comments / Discussion section -->
+                    <div class="comments-section">
+                        <div class="section-divider"></div>
+                        <h4><i class="far fa-comments"></i> Muhokama & Izohlar (<span id="comments-count">0</span>)</h4>
+                        
+                        <!-- Add Comment Form -->
+                        <form class="comment-form" id="comment-form">
+                            <div class="comment-input-row">
+                                <input type="text" id="comment-user" placeholder="Ismingiz..." required>
+                                <textarea id="comment-text" rows="2" placeholder="Ushbu bob bo'yicha fikr yoki izohingizni yozing..." required></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-gold btn-sm"><i class="far fa-paper-plane"></i> Izoh qoldirish</button>
+                        </form>
+
+                        <!-- Comments List -->
+                        <div class="comments-list" id="comments-list-container">
+                            <!-- Comments are rendered dynamically -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- RIGHT PANEL: Multimedia, Maps, AI Tutor, and Quiz -->
+        <aside class="platform-panel right-panel active-mobile" id="right-panel">
+            <div class="panel-header right-panel-tabs">
+                <button class="right-tab-btn active" data-subtab="video"><i class="fas fa-play"></i> Video</button>
+                <button class="right-tab-btn" data-subtab="map"><i class="fas fa-map-marked-alt"></i> Xarita</button>
+                <button class="right-tab-btn" data-subtab="ai"><i class="fas fa-brain"></i> AI Bilim</button>
+                <button class="right-tab-btn" data-subtab="quiz"><i class="fas fa-tasks"></i> Test</button>
+            </div>
+            
+            <div class="panel-content right-panel-body">
+                <!-- 1. VIDEO SUBTAB -->
+                <div class="subtab-content active" id="subtab-video">
+                    <div class="video-container">
+                        <!-- Native Video Player for local MP4 files -->
+                        <video id="media-video-player" controls playsinline style="display: none; width: 100%; height: 100%; object-fit: cover;"></video>
+                        <!-- Iframe for YouTube full streaming movies -->
+                        <iframe id="media-youtube-player" src="" title="Video Player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display: none; width: 100%; height: 100%;"></iframe >
+                    </div>
+                    <div class="media-details">
+                        <h4 id="video-title">Multimedia ilovasi</h4>
+                        <p class="media-desc" id="video-desc">Tanlangan bobga oid moslashtirilgan video tushuntirish, film, hujjatli film yoki animatsion tasvir bu yerda namoyish etiladi.</p>
+                        <!-- Fallback Watch on YouTube Button -->
+                        <a id="video-youtube-link" href="#" target="_blank" class="watch-on-yt-btn" style="display: none;">
+                            <i class="fab fa-youtube"></i> Videoni YouTube'da ko'rish
+                        </a>
+                    </div>
+                </div>
+
+                <!-- 2. MAP SUBTAB -->
+                <div class="subtab-content" id="subtab-map">
+                    <div class="map-container-wrapper">
+                        <h4 id="map-title" class="map-header-title">Bobga oid xarita</h4>
+                        <div class="map-view" id="map-view">
+                            <img src="" alt="Interactive Map" id="map-base-img" class="map-base-img">
+                            <div class="map-hotspots-container" id="map-hotspots-container">
+                                <!-- Interactive hotspot dots render here -->
+                            </div>
+                        </div>
+                        <!-- Hotspot info box -->
+                        <div class="hotspot-info-box" id="hotspot-info-box" style="display: none;">
+                            <h5 id="hotspot-name">Joy nomi</h5>
+                            <p id="hotspot-desc">Ushbu tarixiy joy haqidagi ma'lumot.</p>
+                        </div>
+                        <div class="map-fallback-msg" id="map-fallback-msg">
+                            <i class="fas fa-globe-asia"></i>
+                            <p>Ushbu bob bo'yicha maxsus xarita mavjud emas yoki yuklanmagan.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3. AI TUTOR SUBTAB -->
+                <div class="subtab-content" id="subtab-ai">
+                    <div class="ai-chat-container">
+                        <div class="chat-header">
+                            <div class="ai-profile">
+                                <i class="fas fa-robot ai-avatar"></i>
+                                <div>
+                                    <h5>AI Bilimdoni</h5>
+                                    <span class="status">Faol maslahatchi</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Messages box -->
+                        <div class="chat-messages" id="chat-messages-container">
+                            <div class="chat-message bot">
+                                <p>Assalomu alaykum! Men sizning interaktiv yordamchingizman. Hozirda o'qiyotgan kitobingiz yoki bobingiz haqida savol so'rashingiz mumkin.</p>
+                            </div>
+                        </div>
+
+                        <!-- Predefined quick prompts buttons -->
+                        <div class="quick-prompts">
+                            <button class="quick-prompt-btn" data-prompt="Ushbu bobni sodda qilib tushuntirib ber."><i class="fas fa-compress-alt"></i> Bobni soddalashtir</button>
+                            <button class="quick-prompt-btn" data-prompt="Menga shu bob yoki kitob bo'yicha qiziqarli fakt aytib ber."><i class="fas fa-lightbulb"></i> Qiziqarli faktlar</button>
+                            <button class="quick-prompt-btn" data-prompt="Men 15 yoshdaman, menga qaysi kitoblardan boshlashni tavsiya qilasan?"><i class="fas fa-graduation-cap"></i> Yosh bo'yicha tavsiya</button>
+                        </div>
+
+                        <!-- Chat input form -->
+                        <form class="chat-input-form" id="chat-input-form">
+                            <input type="text" id="chat-input" placeholder="AI'ga savol yozing (masalan: Ushbu bobni sodda tushuntir)..." required>
+                            <button type="submit" class="chat-send-btn" title="Yuborish"><i class="far fa-paper-plane"></i></button>
+                        </form>
+                    </div>
+                </div>
+
+                <!-- 4. QUIZ SUBTAB -->
+                <div class="subtab-content" id="subtab-quiz">
+                    <div class="quiz-container" id="quiz-container">
+                        <!-- Start Quiz State -->
+                        <div class="quiz-state-start" id="quiz-state-start">
+                            <i class="fas fa-clipboard-list quiz-start-icon"></i>
+                            <h3>Boblar Bo'yicha Bilim Testi</h3>
+                            <p>Kitobni o'qib bo'lganingizdan keyin o'z bilimingizni sinab ko'ring. Testda 5 ta savol beriladi. 70% dan yuqori natija ko'rsatsangiz, nomingiz yozilgan maxsus sertifikatga ega bo'lasiz!</p>
+                            <button class="btn btn-gold btn-block" id="start-quiz-btn"><i class="fas fa-play"></i> Testni Boshlash</button>
+                        </div>
+
+                        <!-- Active Quiz Questions State -->
+                        <div class="quiz-state-active" id="quiz-state-active" style="display: none;">
+                            <div class="quiz-progress-bar">
+                                <div class="progress-fill" id="quiz-progress-fill" style="width: 0%;"></div>
+                            </div>
+                            <div class="quiz-meta">
+                                <span id="quiz-question-number">1-savol</span>
+                                <span id="quiz-timer">Vaqt: Cheklanmagan</span>
+                            </div>
+                            <div class="quiz-question-box">
+                                <h4 id="quiz-question-text">Savol matni bu yerga chiqadi?</h4>
+                                <div class="quiz-options-list" id="quiz-options-list">
+                                    <!-- Options buttons render dynamically -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Finished Results State -->
+                        <div class="quiz-state-finished" id="quiz-state-finished" style="display: none;">
+                            <i class="fas fa-award result-icon" id="result-icon-main"></i>
+                            <h3 id="result-title">Natijangiz!</h3>
+                            <div class="result-score-box">
+                                <span class="score-num" id="result-score-percent">0%</span>
+                                <p id="result-correct-count">10 dan 0 ta to'g'ri topildi</p>
+                            </div>
+                            <p class="result-desc" id="result-description">Afsuski, sertifikat olish uchun yetarli ball to'play olmadingiz. Qaytadan urinib ko'rishingiz mumkin.</p>
+                            
+                            <!-- Certificate form (Visible only if user passed) -->
+                            <div class="certificate-claim-box" id="certificate-claim-box" style="display: none;">
+                                <div class="section-divider"></div>
+                                <h4>Tabriklaymiz! Siz sertifikatga loyiq topildingiz!</h4>
+                                <p>Sertifikat chop etilishi uchun ism va familiyangizni kiriting:</p>
+                                <input type="text" id="cert-name-input" placeholder="Ism va familiyangiz..." class="form-control">
+                                <button class="btn btn-gold btn-block" id="claim-cert-btn"><i class="fas fa-medal"></i> Sertifikatni Olish</button>
+                            </div>
+
+                            <button class="btn btn-primary btn-block btn-outline" id="restart-quiz-btn"><i class="fas fa-redo"></i> Testni Qayta Topshirish</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- ADMIN SECTION PANEL VIEW (Visible when admin tab is selected) -->
+        <section class="admin-panel-section" id="admin-panel-section" style="display: none; grid-column: 1 / -1; overflow-y: auto; height: 100%;">
+            <div class="container admin-container card-glass">
+            <div class="admin-header">
+                <h2><i class="fas fa-cog"></i> Bilimxon Administrator Paneli</h2>
+                <p>Platformaga yangi kitoblar, boblar, multimedia videolari va test savollarini qo'shish.</p>
+            </div>
+            
+            <form id="admin-book-form" class="admin-form">
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="admin-title">Kitob nomi *</label>
+                        <input type="text" id="admin-title" placeholder="Masalan: Payg'ambarlar tarixi" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="admin-author">Muallif *</label>
+                        <input type="text" id="admin-author" placeholder="Masalan: Alixantora Sog'uniy" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="admin-genre">Janr / Bo'lim *</label>
+                        <input type="text" id="admin-genre" placeholder="Masalan: Tarixiy, Diniy yoki Jahon adabiyoti" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="admin-cover">Muqova rasmi (URL)</label>
+                        <input type="url" id="admin-cover" placeholder="https://images.unsplash.com/photo-...">
+                    </div>
+                    <div class="form-group full-width">
+                        <label for="admin-desc">Kitob tavsifi *</label>
+                        <textarea id="admin-desc" rows="3" placeholder="Kitob haqida qisqacha ma'lumot..." required></textarea>
+                    </div>
+                </div>
+
+                <div class="section-divider"></div>
+                <h3>1-bob Tafsilotlari</h3>
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="admin-ch-title">Bob nomi *</label>
+                        <input type="text" id="admin-ch-title" placeholder="Masalan: 1-bob: Nuh alayhissalom va Kema mo'jizasi" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="admin-ch-video">YouTube Video URL (Embed formatda) *</label>
+                        <input type="url" id="admin-ch-video" placeholder="https://www.youtube.com/embed/n4p_Mh49p_U" required>
+                    </div>
+                    <div class="form-group full-width">
+                        <label for="admin-ch-content">Bob matni (To'liq kitob matni) *</label>
+                        <textarea id="admin-ch-content" rows="6" placeholder="Bu yerga kitobning to'liq o'qish matnini kiriting..." required></textarea>
+                    </div>
+                    <div class="form-group full-width">
+                        <label for="admin-ch-sources">Manbalar (Har bir manbani yangi qatordan yozing) *</label>
+                        <textarea id="admin-ch-sources" rows="3" placeholder="Qur'oni Karim, Hud surasi, 36-48 oyatlar&#10;Tafsiri Hilol, Shayx Muhammad Sodiq..." required></textarea>
+                    </div>
+                </div>
+
+                <div class="section-divider"></div>
+                <h3>Test Savollari (1-savol)</h3>
+                <div class="form-grid">
+                    <div class="form-group full-width">
+                        <label for="admin-q1-text">Savol matni *</label>
+                        <input type="text" id="admin-q1-text" placeholder="Masalan: Nuh (a.s.) necha yil da'vat qildilar?" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="admin-q1-opt1">Variant A (To'g'ri javob) *</label>
+                        <input type="text" id="admin-q1-opt1" placeholder="950 yil" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="admin-q1-opt2">Variant B *</label>
+                        <input type="text" id="admin-q1-opt2" placeholder="500 yil" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="admin-q1-opt3">Variant C</label>
+                        <input type="text" id="admin-q1-opt3" placeholder="1000 yil">
+                    </div>
+                    <div class="form-group">
+                        <label for="admin-q1-opt4">Variant D</label>
+                        <input type="text" id="admin-q1-opt4" placeholder="150 yil">
+                    </div>
+                </div>
+
+                <div class="admin-actions">
+                    <button type="submit" class="btn btn-gold"><i class="fas fa-plus"></i> Yangi kitob va bobni qo'shish</button>
+                    <button type="reset" class="btn btn-primary btn-outline">Formani tozalash</button>
+                </div>
+            </form>
+        </div>
+    </section>
+</main>
+
+    <!-- GORGEOUS CERTIFICATE MODAL POPUP -->
+    <div class="cert-modal-overlay" id="cert-modal" style="display: none;">
+        <div class="cert-modal-container">
+            <button class="cert-close-btn" id="cert-close-btn">&times;</button>
+            
+            <!-- Printable Certificate Area -->
+            <div class="certificate-paper" id="certificate-print-area">
+                <div class="cert-border-outer">
+                    <div class="cert-border-inner">
+                        <div class="cert-header">
+                            <i class="fas fa-award cert-header-badge"></i>
+                            <h1 class="cert-org-name">BILIMXON KUTUBXONASI</h1>
+                            <p class="cert-type">ERISHILGAN NATIVJA SERTIFIKATI</p>
+                        </div>
+                        
+                        <div class="cert-body">
+                            <p class="cert-presented-text">Ushbu hujjat mamnuniyat bilan taqdim etiladi:</p>
+                            <h2 class="cert-user-name" id="cert-display-name">ISM VA FAMILIYA</h2>
+                            <p class="cert-reason">
+                                Ular Bilimxon interaktiv ma'rifat platformasida taqdim etilgan <br>
+                                <strong id="cert-display-book">KITOB NOMI</strong> <br>
+                                kitobini to'liq o'qib, barcha boblarni multimedia ilovalari bilan mustahkamlab, <br>
+                                maxsus test topshiriqlarini a'lo darajada bajarganliklari uchun mukofotlanadilar.
+                            </p>
+                        </div>
+                        
+                        <div class="cert-footer">
+                            <div class="cert-signature-block">
+                                <span class="signature-line" style="font-family: 'Playfair Display', cursive; font-style: italic;">Antigravity AI</span>
+                                <span class="title-line">AI Bilimdoni</span>
+                            </div>
+                            <div class="cert-stamp-block">
+                                <div class="cert-stamp">
+                                    <span>BILIMXON</span>
+                                    <span>ZIYO</span>
+                                </div>
+                            </div>
+                            <div class="cert-signature-block">
+                                <span class="signature-line" id="cert-date">09.07.2026</span>
+                                <span class="title-line">Sana</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Modal Action Buttons -->
+            <div class="cert-modal-actions">
+                <button class="btn btn-gold" id="print-cert-btn"><i class="fas fa-print"></i> Chop etish (Print PDF)</button>
+                <button class="btn btn-primary" id="close-cert-action-btn">Yopish</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- App Main Footer -->
+    <footer class="app-footer">
+        <div class="footer-container">
+            <p>&copy; 2026 Bilimxon Ziyo Platformasi. Barcha huquqlar himoyalangan.</p>
+            <p class="footer-address"><i class="fas fa-map-marker-alt"></i> Toshkent shahri, Chilonzor tumani</p>
+        </div>
+    </footer>
+
+    <!-- Main JavaScript App Code -->
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,4679 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": {
+        "uz": "Payg'ambarimiz tarixi (s.a.v.)",
+        "en": "History of Our Prophet (p.b.u.h.)",
+        "ru": "История нашего Пророка (с.а.в.)"
+      },
+      "author": "Alixantora Sog'uniy",
+      "genre": "Tarixiy, Diniy",
+      "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Oxirgi payg'ambar Muhammad alayhissalomning muqaddas hayot yo'llari, islom dinining yuzaga kelishi va tarqalishi hikoya qilinadi.",
+        "en": "The sacred life story of the last prophet Muhammad (p.b.u.h.), the emergence and spread of Islam based on authentic sources.",
+        "ru": "Священная история жизни последнего пророка Мухаммада (с.а.в.), зарождение и распространение ислама на основе достоверных источников."
+      },
+      "chapters": [
+        {
+          "id": "1-1",
+          "title": {
+            "uz": "1-bob: Muhammad (s.a.v.)ning yoshliklari va ilk da'vat",
+            "en": "Chapter 1: The Youth of Muhammad (p.b.u.h.) and the First Call",
+            "ru": "Глава 1: Юность Мухаммада (с.а.в.) и первый призыв"
+          },
+          "content": {
+            "uz": "Muhammad sollallohu alayhi vasallam Makkada, Quraysh qabilasining Hoshimiylar xonadonida yetim bo'lib dunyoga keldilar. Otalari Abdulloh u zot tug'ilmaslaridan avval, onalari Omina esa olti yoshligida vafot etdi. Bobolari Abdulmuttalib va amakilari Abu Tolib tarbiyasida o'sdilar. Yoshliklaridan to'g'ri so'zliklari va omonatdorliklari sababli 'Al-Amin' (Ishonchli) laqabini oldilar. 25 yoshlarida Hazrati Hadicha onamizga uylandilar. 40 yoshga yetganlarida Hira g'orida ilk bor Jabroil alayhissalom orqali 'Iqro' (O'qi) amri bilan birinchi vahiy nozil bo'ldi va payg'ambarlik yuklandi. Dastlabki da'vat maxfiy olib borildi, birinchi bo'lib Hadicha onamiz, Abu Bakr Siddiq, Hazrati Ali va Zayd ibn Horisa iymon keltirdilar.",
+            "en": "Muhammad (peace be upon him) was born as an orphan in Mecca, in the Hashimite family of the Quraysh tribe. His father Abdullah died before he was born, and his mother Aminah passed away when he was six. He was raised by his grandfather Abdulmuttalib and his uncle Abu Talib. Since youth, he was known as 'Al-Amin' (The Trustworthy) due to his truthfulness. At 25, he married Khadijah. At 40, he received the first revelation through the Angel Gabriel in the cave of Hira. The early call was private, with Khadijah, Abu Bakr, Ali, and Zayd being the first to believe.",
+            "ru": "Мухаммад (мир ему и благословение) родился сиротой в Мекке, в хашимитской семье племени курайшитов. Его отец Абдуллах умер до его рождения, а мать Амина ушла из жизни, когда ему было шесть лет. Его воспитывали дедушка Абдулмутталиб и дядя Абу Талиб. С юности за свою честность он получил прозвище 'Аль-Амин' (Надежный). В 25 лет он женился на Хадидже. В 40 лет он получил первое откровение через ангела Джибриля в пещере Хира. Начальный призыв был тайным, первыми поверили Хадиджа, Абу Бакр, Али и Зайд."
+          },
+          "sources": {
+            "uz": [
+              "Tafsiri Hilol, Shayx Muhammad Sodiq Muhammad Yusuf",
+              "Ar-Rahiq al-Makhtum, Safiurrahmon al-Muborakfuriy"
+            ],
+            "en": [
+              "Tafsir of Quran, Sheikh Muhammad Sadiq",
+              "The Sealed Nectar, Safiur Rahman Al-Mubarakpuri"
+            ],
+            "ru": [
+              "Тафсир Хилал, Шейх Мухаммад Садык",
+              "Жизнеописание Пророка, Сафи ар-Рахман аль-Мубаракфури"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/1iX9KEKex3Y",
+              "videoTitle": "Risolat - Muhammad (s.a.v.) Tarixi Badiiy Filmi (O'zbek tilida - 180 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/1iX9KEKex3Y",
+              "videoTitle": "Risolat - Muhammad (s.a.v.) Tarixi Badiiy Filmi (O'zbek tilida - 180 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/1iX9KEKex3Y",
+              "videoTitle": "Risolat - Muhammad (s.a.v.) Tarixi Badiiy Filmi (O'zbek tilida - 180 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Makka shahri va Hira g'ori xaritasi",
+                "en": "Map of Mecca and Cave Hira",
+                "ru": "Карта Мекки и пещеры Хира"
+              },
+              "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Hira g'ori",
+                  "x": 60,
+                  "y": 30,
+                  "info": "Ilk vahiy nozil bo'lgan joy / Place of first revelation / Место первого откровения"
+                },
+                {
+                  "name": "Makkai Mukarrama",
+                  "x": 45,
+                  "y": 50,
+                  "info": "Muqaddas shahar / The Holy City / Священный город"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Payg'ambarimiz (s.a.v.) necha yoshlarida ilk vahiyni qabul qildilar?",
+              "en": "At what age did the Prophet (p.b.u.h.) receive the first revelation?",
+              "ru": "В каком возрасте Пророк (с.а.в.) получил первое откровение?"
+            },
+            "options": {
+              "uz": [
+                "25 yoshda",
+                "40 yoshda",
+                "63 yoshda",
+                "33 yoshda"
+              ],
+              "en": [
+                "25 years old",
+                "40 years old",
+                "63 years old",
+                "33 years old"
+              ],
+              "ru": [
+                "25 лет",
+                "40 лет",
+                "63 года",
+                "33 года"
+              ]
+            },
+            "answer": 1
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "2",
+      "title": {
+        "uz": "Robinzon Kruzo",
+        "en": "Robinson Crusoe",
+        "ru": "Робинзон Крузо"
+      },
+      "author": "Daniel Defo",
+      "genre": "Sarguzasht, Klassika",
+      "cover": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Dahshatli kema halokatidan so'ng kimsasiz orolda yolg'iz qolib, omon qolish uchun 28 yil kurashgan dengizchi sarguzashtlari.",
+        "en": "The adventures of a sailor stranded on a deserted island for 28 years after a terrible shipwreck, surviving by intelligence and courage.",
+        "ru": "Приключения моряка, оставшегося на необитаемом острове на 28 лет после ужасного кораблекрушения, выжившего благодаря уму и мужеству."
+      },
+      "chapters": [
+        {
+          "id": "2-1",
+          "title": {
+            "uz": "1-bob: Kema halokati va Oroldagi ilk qadamlar",
+            "en": "Chapter 1: Shipwreck and First Steps on the Island",
+            "ru": "Глава 1: Кораблекрушение и первые шаги на острове"
+          },
+          "content": {
+            "uz": "Dahshatli dovul va po'rtana kemamizni toshlarga urdi. Ekipajning barcha a'zolari to'lqinlar ostida g'arq bo'ldi, faqatgina men - Robinzon Kruzo tirik qolib, yarim hushsiz holda noma'lum quruqlikka chiqdim.",
+            "en": "A terrible storm drove our ship against the rocks. The entire crew perished, and I, Robinson Crusoe, was washed ashore semi-conscious.",
+            "ru": "Ужасный шторм разбил наш корабль о скалы. Весь экипаж погиб, и только меня, Робинзона Крузо, выбросило на берег полуживым."
+          },
+          "sources": {
+            "uz": [
+              "Robinson Crusoe (Asl matn), Daniel Defo"
+            ],
+            "en": [
+              "Robinson Crusoe (Original text), Daniel Defoe"
+            ],
+            "ru": [
+              "Робинзон Крузо (Оригинальный текст), Даниэль Дефо"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/vi8BBS12CkU",
+              "videoTitle": "Robinzon Kruzo Sarguzashtlari Badiiy Filmi (O'zbek tilida - 90 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/vi8BBS12CkU",
+              "videoTitle": "Robinzon Kruzo Sarguzashtlari Badiiy Filmi (O'zbek tilida - 90 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/vi8BBS12CkU",
+              "videoTitle": "Robinzon Kruzo Sarguzashtlari Badiiy Filmi (O'zbek tilida - 90 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Robinzonning Yovvoyi Oroldagi Uy Xaritasi",
+                "en": "Map of Robinson's House on Deserted Island",
+                "ru": "Карта дома Робинзона на необитаемом острове"
+              },
+              "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Halokat joyi",
+                  "x": 15,
+                  "y": 70,
+                  "info": "Kema parchalangan qirg'oq / Shipwreck shore / Берег крушения"
+                },
+                {
+                  "name": "Boshpana (G'or)",
+                  "x": 45,
+                  "y": 35,
+                  "info": "Mening g'or-uyim / My cave house / Мой дом-пещера"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Robinzon Kruzo kimsasiz orolda necha yil yashadi?",
+              "en": "How many years did Robinson Crusoe live on the deserted island?",
+              "ru": "Сколько лет Робинзон Крузо прожил на необитаемом острове?"
+            },
+            "options": {
+              "uz": [
+                "10 yil",
+                "15 yil",
+                "28 yil",
+                "35 yil"
+              ],
+              "en": [
+                "10 years",
+                "15 years",
+                "28 years",
+                "35 years"
+              ],
+              "ru": [
+                "10 лет",
+                "15 лет",
+                "28 лет",
+                "35 лет"
+              ]
+            },
+            "answer": 2
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "3",
+      "title": {
+        "uz": "O'zbek Xalq Ertaklari",
+        "en": "Uzbek Folk Tales",
+        "ru": "Узбекские народные сказки"
+      },
+      "author": "Xalq og'zaki ijodi",
+      "genre": "Bolalar, Ertaklar",
+      "cover": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Zumrad va Qimmat, Kenja botir va boshqa eng sevimli o'zbek xalq ertaklari va ibratli afsonalar to'plami.",
+        "en": "A beautiful collection of traditional Uzbek folk tales including Zumrad and Qimmat, and other moral legends.",
+        "ru": "Прекрасный сборник узбекских народных сказок, включая Зумрад и Киммат и другие поучительные легенды."
+      },
+      "chapters": [
+        {
+          "id": "3-1",
+          "title": {
+            "uz": "1-bob: Zumrad va Qimmat",
+            "en": "Chapter 1: Zumrad and Qimmat",
+            "ru": "Глава 1: Зумрад и Киммат"
+          },
+          "content": {
+            "uz": "Cholning Zumrad ismli aqlli qizi va o'gay onasining Qimmat ismli dangasa qizi o'rtasidagi ibratli hikoya.",
+            "en": "The moral story between the kind Zumrad and the lazy Qimmat.",
+            "ru": "Поучительная история о доброй Зумрад и ленивой Киммат."
+          },
+          "sources": {
+            "uz": [
+              "O'zbek xalq ertaklari to'plami, G'afur G'ulom nashriyoti"
+            ],
+            "en": [
+              "Traditional Uzbek Fairy Tales Collection"
+            ],
+            "ru": [
+              "Узбекские народные сказки"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/PWo-cMF2kro",
+              "videoTitle": "O'zbek Xalq Ertaklari Multfilmlar To'plami (O'zbek tilida - 80 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/PWo-cMF2kro",
+              "videoTitle": "O'zbek Xalq Ertaklari Multfilmlar To'plami (O'zbek tilida - 80 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/PWo-cMF2kro",
+              "videoTitle": "O'zbek Xalq Ertaklari Multfilmlar To'plami (O'zbek tilida - 80 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Sehrli O'rmon Xaritasi",
+                "en": "Map of Magic Forest",
+                "ru": "Карта волшебного леса"
+              },
+              "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Zumradning uyi",
+                  "x": 20,
+                  "y": 60,
+                  "info": "Chol va kampirning uyi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Zumradning singlisi kim edi?",
+              "en": "Who was Zumrad's sister?",
+              "ru": "Кто был сестрой Зумрад?"
+            },
+            "options": {
+              "uz": [
+                "Qimmat",
+                "Lola",
+                "Oydin"
+              ],
+              "en": [
+                "Qimmat",
+                "Lola",
+                "Oydin"
+              ],
+              "ru": [
+                "Киммат",
+                "Лола",
+                "Ойдин"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "4",
+      "title": {
+        "uz": "Aka-uka Grimm Ertaklari",
+        "en": "Brothers Grimm Fairy Tales",
+        "ru": "Сказки братьев Гримм"
+      },
+      "author": "Aka-uka Grimm",
+      "genre": "Bolalar, Jahon ertaklari",
+      "cover": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Bo'ri va yetti uloqcha va boshqa sevimli aka-uka Grimm ertaklari o'zbek tilida.",
+        "en": "The Wolf and the Seven Little Goats, and other classic Grimm fairy tales.",
+        "ru": "Волк и семеро козлят и другие классические сказки братьев Гримм."
+      },
+      "chapters": [
+        {
+          "id": "4-1",
+          "title": {
+            "uz": "1-bob: Bo'ri va yetti uloqcha",
+            "en": "Chapter 1: The Wolf and the Seven Kids",
+            "ru": "Глава 1: Волк и семеро козлят"
+          },
+          "content": {
+            "uz": "Yo'g'on ovozli yovvoyi bo'ridan omon qolgan aqlli uloqchalar hikoyasi.",
+            "en": "The story of seven kids and a clever wolf.",
+            "ru": "История о семерых козлятах и злом волке."
+          },
+          "sources": {
+            "uz": [
+              "Aka-uka Grimm ertaklari, Bolalar adabiyoti"
+            ],
+            "en": [
+              "Grimm's Fairy Tales, Children's Classics"
+            ],
+            "ru": [
+              "Сказки братьев Гримм"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/HjNu2k_iGQY",
+              "videoTitle": "Aka-uka Grimm Ertaklari Multfilmlar To'plami (O'zbek tilida - 50 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/HjNu2k_iGQY",
+              "videoTitle": "Aka-uka Grimm Ertaklari Multfilmlar To'plami (O'zbek tilida - 50 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/HjNu2k_iGQY",
+              "videoTitle": "Aka-uka Grimm Ertaklari Multfilmlar To'plami (O'zbek tilida - 50 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Echki va Uloqchalar Uyi",
+                "en": "Map of the Goats' House",
+                "ru": "Карта дома козы"
+              },
+              "image": "https://images.unsplash.com/photo-1547989453-11e67ffb3885?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Echkining uyi",
+                  "x": 40,
+                  "y": 55,
+                  "info": "Uloqchalar uyi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Eng kichik uloqcha qayerga yashiringan?",
+              "en": "Where did the youngest kid hide?",
+              "ru": "Где спрятался младший козленок?"
+            },
+            "options": {
+              "uz": [
+                "Soat qutisiga",
+                "Karovat tagiga"
+              ],
+              "en": [
+                "In the clock case",
+                "Under the bed"
+              ],
+              "ru": [
+                "В часах",
+                "Под кроватью"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "5",
+      "title": {
+        "uz": "Ur, to'qmoq! (O'zbek Xalq Ertagi)",
+        "en": "Beat, Club! (Uzbek Folk Tale)",
+        "ru": "Бей, дубинка! (Узбекская народная сказка)"
+      },
+      "author": "Xalq og'zaki ijodi",
+      "genre": "Bolalar, Ertaklar",
+      "cover": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Ochko'z boyni jazolagan sehrli to'qmoq, saxovatli kampir va sodda chol haqidagi qiziqarli o'zbek xalq ertagi.",
+        "en": "A classic Uzbek folk tale about a magical club that teaches a greedy rich merchant a valuable lesson.",
+        "ru": "Классическая узбекская народная сказка о волшебной дубинке, которая проучила жадного богача."
+      },
+      "chapters": [
+        {
+          "id": "5-1",
+          "title": {
+            "uz": "1-bob: Sehrli to'qmoq",
+            "en": "Chapter 1: The Magic Club",
+            "ru": "Глава 1: Волшебная дубинка"
+          },
+          "content": {
+            "uz": "Chol o'rmondan o'tin orqalab kelayotib, sehrli qushni qutqaribdi. Qush cholga sehrli dasturxon sovg'a qilibdi. Bu dasturxon 'Ochilm dasturxon!' deyilsa, turli taomlar chiqarar ekan. Buni bilgan ochko'z boy cholni aldab dasturxonni olib qo'yibdi. Keyin qush cholga 'Ur, to'qmoq!' deb buyuradigan sehrli to'qmoq sovg'a qilibdi.",
+            "en": "The old man rescued a magic bird in the forest. The bird gave him a magic tablecloth. A greedy merchant stole it, so the bird gave the man a magic club to beat the thief.",
+            "ru": "Старик спас волшебную птицу в лесу. Птица подарила ему волшебную скатерть-самобранку. Жадный богач украл ее, тогда птица дала старику волшебную дубинку."
+          },
+          "sources": {
+            "uz": [
+              "O'zbek xalq ertaklari, Adabiyot nashriyoti"
+            ],
+            "en": [
+              "Uzbek Folk Tales"
+            ],
+            "ru": [
+              "Узбекские народные сказки"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/LvbY9nT70o0",
+              "videoTitle": "Ur, to'qmoq! Multfilmi va Ertaklar To'plami (O'zbek tilida - 55 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/LvbY9nT70o0",
+              "videoTitle": "Ur, to'qmoq! Multfilmi va Ertaklar To'plami (O'zbek tilida - 55 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/LvbY9nT70o0",
+              "videoTitle": "Ur, to'qmoq! Multfilmi va Ertaklar To'plami (O'zbek tilida - 55 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Sehrli To'qmoq Joylashuvi",
+                "en": "Location of Magic Club",
+                "ru": "Местонахождение дубинки"
+              },
+              "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Boyning saroyi",
+                  "x": 50,
+                  "y": 50,
+                  "info": "Sehrli narsalar yashirilgan saroy"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Sehrli dasturxonni kim o'g'irladi?",
+              "en": "Who stole the magic tablecloth?",
+              "ru": "Кто украл волшебную скатерть?"
+            },
+            "options": {
+              "uz": [
+                "Ochko'z boy",
+                "Qishloq cho'poni",
+                "Sodda dehqon"
+              ],
+              "en": [
+                "Greedy merchant",
+                "Village shepherd",
+                "Simple farmer"
+              ],
+              "ru": [
+                "Жадный богач",
+                "Пастух",
+                "Простой дехканин"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "6",
+      "title": {
+        "uz": "Yolg'onchi Cho'pon",
+        "en": "The Boy Who Cried Wolf",
+        "ru": "Мальчик-забияка и волк"
+      },
+      "author": "Jahon xalqlari ertagi",
+      "genre": "Bolalar, Ibratli",
+      "cover": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Yolg'on so'zlashning yomon oqibatlari haqidagi eng mashhur ibratli jahon ertagi.",
+        "en": "The classic moral fable about a shepherd boy who repeatedly lies until nobody believes him when danger arrives.",
+        "ru": "Классическая поучительная басня о пастушке, который постоянно врал, пока волки действительно не пришли."
+      },
+      "chapters": [
+        {
+          "id": "6-1",
+          "title": {
+            "uz": "1-bob: Bo'ri keldi!",
+            "en": "Chapter 1: The Wolf is Here!",
+            "ru": "Глава 1: Волк пришел!"
+          },
+          "content": {
+            "uz": "Bir yosh cho'pon zerikib, odamlarni aldashga qaror qilibdi. U 'Bo'ri keldi, yordam bering!' deb baqiribdi. Qishloqdagilar yugurib kelishsa, cho'pon kulib turgan emish. Bu holat bir necha bor takrorlanibdi. Oxiri chindan bo'ri kelganda, odamlar uning baqirganiga ishonmabdilar.",
+            "en": "A young shepherd decided to trick the villagers by crying wolf. When they rushed to help, he laughed at them. When the wolf actually came, no one believed him.",
+            "ru": "Молодой пастух решил разыграть жителей деревни и закричал: 'Волк!'. Когда все прибежали, он рассмеялся. Когда волк действительно пришел, никто ему не поверил."
+          },
+          "sources": {
+            "uz": [
+              "Ezop masallari, Jahon adabiyoti"
+            ],
+            "en": [
+              "Aesop's Fables"
+            ],
+            "ru": [
+              "Басни Эзопа"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/-LPW7Sw-hzM",
+              "videoTitle": "Yolg'onchi Cho'pon va Ibratli Multfilmlar To'plami (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/-LPW7Sw-hzM",
+              "videoTitle": "Yolg'onchi Cho'pon va Ibratli Multfilmlar To'plami (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/-LPW7Sw-hzM",
+              "videoTitle": "Yolg'onchi Cho'pon va Ibratli Multfilmlar To'plami (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Cho'ponlik Yaylovi",
+                "en": "Shepherd's Meadow",
+                "ru": "Пастбище пастуха"
+              },
+              "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Qishloq",
+                  "x": 30,
+                  "y": 60,
+                  "info": "Qishloq ahli yashaydigan joy"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Cho'ponning yordam chaqirig'iga nega oxirida hech kim kelmadi?",
+              "en": "Why did nobody come to help the shepherd at the end?",
+              "ru": "Почему никто не пришел на помощь пастуху в конце?"
+            },
+            "options": {
+              "uz": [
+                "Uning yolg'onlariga ishonmay qo'yishgani uchun",
+                "Qishloq ahli uxlayotgan edi",
+                "U uzoqqa ketib qolgandi"
+              ],
+              "en": [
+                "Because they stopped believing his lies",
+                "The villagers were sleeping",
+                "He went too far"
+              ],
+              "ru": [
+                "Потому что перестали верить его лжи",
+                "Жители спали",
+                "Он ушел слишком далеко"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "7",
+      "title": {
+        "uz": "Echki va Yetti Uloqcha",
+        "en": "The Wolf and the Seven Goats",
+        "ru": "Коза и семеро козлят"
+      },
+      "author": "Aka-uka Grimm",
+      "genre": "Bolalar, Tarbiyaviy",
+      "cover": "https://images.unsplash.com/photo-1533048347048-132a0c616892?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Uydan ketayotgan ona echkining bolalariga qilgan o'gitlari va ularni aldav yegan bo'ri haqidagi mashhur multfilm-ertak.",
+        "en": "The classic bedtime fairy tale about a goat mother warning her kids about a wolf, and how they trick him.",
+        "ru": "Знаменитая детская сказка о козе, которая учила козлят осторожности, и о сером волке."
+      },
+      "chapters": [
+        {
+          "id": "7-1",
+          "title": {
+            "uz": "1-bob: Uloqchalar sarguzashti",
+            "en": "Chapter 1: The Adventure of Kids",
+            "ru": "Глава 1: Приключение козлят"
+          },
+          "content": {
+            "uz": "Ona echki o'rmonga ketgach, bo'ri kelib ovozini o'zgartirib eshikni taqillatdi. Uloqchalar bo'rining oyoqlarini ko'rib uni tanib qoldilar. Bo'ri esa o'ziga oq un surtib, uloqchalarni aldadi.",
+            "en": "After the mother goat left, the wolf tried to trick the kids. They recognized him first by his dark paws, but he covered them in white flour and entered.",
+            "ru": "После ухода матери волк пытался обмануть козлят. Сначала они узнали его по лапам, но он измазал их мукой и обманул их."
+          },
+          "sources": {
+            "uz": [
+              "Jahon bolalar ertaklari, Sharq nashriyoti"
+            ],
+            "en": [
+              "Grimm's Classics"
+            ],
+            "ru": [
+              "Сказки братьев Гримм"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/pUYhEcDCll0",
+              "videoTitle": "Echki va Yetti Uloqcha Animatsion Multfilmi (O'zbek tilida - 40 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/pUYhEcDCll0",
+              "videoTitle": "Echki va Yetti Uloqcha Animatsion Multfilmi (O'zbek tilida - 40 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/pUYhEcDCll0",
+              "videoTitle": "Echki va Yetti Uloqcha Animatsion Multfilmi (O'zbek tilida - 40 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Echkilar Uychasi",
+                "en": "Goat House Map",
+                "ru": "Карта домика козы"
+              },
+              "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Tegirmon",
+                  "x": 60,
+                  "y": 40,
+                  "info": "Bo'ri oq un olgan tegirmon"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Bo'ri uloqchalarni aldash uchun oyog'iga nima surtdi?",
+              "en": "What did the wolf cover his paws with to trick the kids?",
+              "ru": "Чем волк измазал лапы, чтобы обмануть козлят?"
+            },
+            "options": {
+              "uz": [
+                "Oq un",
+                "Bo'yoq",
+                "Loy"
+              ],
+              "en": [
+                "White flour",
+                "Paint",
+                "Mud"
+              ],
+              "ru": [
+                "Мука",
+                "Краска",
+                "Грязь"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "8",
+      "title": {
+        "uz": "Tulki va Arslon",
+        "en": "The Fox and the Lion",
+        "ru": "Лиса и Лев"
+      },
+      "author": "O'zbek xalq ertaklari",
+      "genre": "Bolalar, Hayvonlar haqida",
+      "cover": "https://images.unsplash.com/photo-1590005354167-6da97870c913?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Aqlli tulkining kuchi yetmasa-da, aqlni ishlatib arslonni qanday aldab qutulib qolgani haqidagi ajoyib hayvonlar masali.",
+        "en": "A clever animal fable about a witty fox who uses intelligence instead of physical strength to survive and escape from a lion.",
+        "ru": "Интересная басня о хитрой лисе, которая спаслась от грозного льва с помощью своего ума."
+      },
+      "chapters": [
+        {
+          "id": "8-1",
+          "title": {
+            "uz": "1-bob: Tulki hiylasi",
+            "en": "Chapter 1: The Clever Fox",
+            "ru": "Глава 1: Хитрость лисы"
+          },
+          "content": {
+            "uz": "O'rmon shohi arslon tulkini yemoqchi bo'libdi. Tulki qo'rqmay: 'Ey shoh, men sizga o'zingizdan kuchliroq bo'lgan boshqa bir arslonni ko'rsataman!' debdi. Uni quduq bo'yiga yetaklabdi va suvdagi aksini ko'rsatibdi. Arslon esa g'azablanib o'zini quduqqa tashlabdi.",
+            "en": "The lion wanted to eat the fox. The fox said she could show him a stronger lion. She led him to a well and showed him his reflection, leading the angry lion to jump in.",
+            "ru": "Лев хотел съесть лису. Лиса сказала, что покажет ему льва посильнее. Она привела его к колодцу и показала его отражение, лев прыгнул в воду."
+          },
+          "sources": {
+            "uz": [
+              "Xalq dostonlari va masallari, Yoshlar nashriyoti"
+            ],
+            "en": [
+              "Oriental Animal Fables"
+            ],
+            "ru": [
+              "Восточные сказки о животных"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/n2OPSMcfJ5Y",
+              "videoTitle": "Tulki va Arslon Multfilmi va Axloqiy Hikoyalar (O'zbek tilida - 50 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/n2OPSMcfJ5Y",
+              "videoTitle": "Tulki va Arslon Multfilmi va Axloqiy Hikoyalar (O'zbek tilida - 50 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/n2OPSMcfJ5Y",
+              "videoTitle": "Tulki va Arslon Multfilmi va Axloqiy Hikoyalar (O'zbek tilida - 50 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Sehrli Quduq",
+                "en": "The Magic Well",
+                "ru": "Волшебный колодец"
+              },
+              "image": "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Quduq",
+                  "x": 45,
+                  "y": 65,
+                  "info": "Arslon sakrab o'lgan quduq"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Arslon quduq tubida kimni ko'rdim deb o'yladi?",
+              "en": "Who did the lion think was inside the well?",
+              "ru": "Кого лев подумал увидеть на дне колодца?"
+            },
+            "options": {
+              "uz": [
+                "Boshqa kuchliroq arslonni",
+                "Sehrli baliqni",
+                "O'zining soyasini"
+              ],
+              "en": [
+                "Another stronger lion",
+                "A magic fish",
+                "His own shadow"
+              ],
+              "ru": [
+                "Другого сильного льва",
+                "Волшебную рыбу",
+                "Свою тень"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "9",
+      "title": {
+        "uz": "Dono Qiz (O'zbek Xalq Ertagi)",
+        "en": "The Wise Girl (Uzbek Folk Tale)",
+        "ru": "Умная девушка (Узбекская сказка)"
+      },
+      "author": "Xalq og'zaki ijodi",
+      "genre": "Bolalar, Tarbiyaviy",
+      "cover": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Oddiy qizning aqli va zukkoligi orqali shohning murakkab jumboqlarini qanday yechgani haqidagi ajoyib o'zbek xalq ertagi.",
+        "en": "A beautiful story about a clever peasant girl who answers the king's most difficult riddles with her sharp mind.",
+        "ru": "Прекрасная узбекская сказка об умной крестьянской девушке, которая разгадала сложные загадки шаха."
+      },
+      "chapters": [
+        {
+          "id": "9-1",
+          "title": {
+            "uz": "1-bob: Shoh jumboqlari",
+            "en": "Chapter 1: The King's Riddles",
+            "ru": "Глава 1: Загадки шаха"
+          },
+          "content": {
+            "uz": "Shoh o'z a'yonlarini sinash uchun qiyin jumboqlar beribdi. Jumboqlarni yechishga hech kimning aqli yetmabdi. Ammo bir kambag'al kishining dono qizi cholga to'g'ri javoblarni o'rgatib yuboribdi.",
+            "en": "The king gave difficult riddles to his advisors. None could solve them, but a poor man's wise daughter taught him the correct answers.",
+            "ru": "Шах дал сложные загадки своим советникам. Никто не мог решить их, но мудрая дочь бедняка подсказала правильные ответы."
+          },
+          "sources": {
+            "uz": [
+              "O'zbek xalq ertaklari oltin to'plami"
+            ],
+            "en": [
+              "Golden Collection of Uzbek Folk Tales"
+            ],
+            "ru": [
+              "Золотая коллекция узбекских сказок"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/BvjDtz05nAw",
+              "videoTitle": "Dono Qiz Audio Ertagi va Mashhur Multfilmlar (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/BvjDtz05nAw",
+              "videoTitle": "Dono Qiz Audio Ertagi va Mashhur Multfilmlar (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/BvjDtz05nAw",
+              "videoTitle": "Dono Qiz Audio Ertagi va Mashhur Multfilmlar (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Shoh Saroyi",
+                "en": "The King's Palace",
+                "ru": "Дворец шаха"
+              },
+              "image": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Kambag'alning uyi",
+                  "x": 15,
+                  "y": 70,
+                  "info": "Dono qiz yashaydigan kulba"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Jumboqlarning to'g'ri javobini cholga kim o'rgatdi?",
+              "en": "Who taught the old man the correct answers?",
+              "ru": "Кто подсказал старику правильные ответы?"
+            },
+            "options": {
+              "uz": [
+                "Dono qizi",
+                "Qishloq oqsoqoli",
+                "Sehrgar chol"
+              ],
+              "en": [
+                "His wise daughter",
+                "Village elder",
+                "Magician"
+              ],
+              "ru": [
+                "Мудрая дочь",
+                "Старейшина",
+                "Волшебник"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "10",
+      "title": {
+        "uz": "Oltin Baliqcha",
+        "en": "The Golden Fish",
+        "ru": "Золотая рыбка"
+      },
+      "author": "Aleksandr Pushkin",
+      "genre": "Bolalar, Jahon klassikasi",
+      "cover": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Ochko'z kampir va u tutgan sehrli oltin baliqcha, baxtsiz chol haqidagi jahonga mashhur ibratli ertak.",
+        "en": "The world-famous tale about a poor fisherman who catches a magic golden fish that grants wishes, and his greedy wife.",
+        "ru": "Всемирно известная сказка о рыбаке, поймавшем волшебную золотую рыбку, и его жадной старухе."
+      },
+      "chapters": [
+        {
+          "id": "10-1",
+          "title": {
+            "uz": "1-bob: Sehrli baliqcha",
+            "en": "Chapter 1: The Magic Fish",
+            "ru": "Глава 1: Волшебная рыбка"
+          },
+          "content": {
+            "uz": "Chol dengizga to'r tashlab sehrli oltin baliqcha tutibdi. Baliqcha cholga 'Meni qo'yib yubor, nima tilasang beraman' debdi. Chol hech narsa tilamay uni dengizga qo'yib yuboribdi, lekin kampiri buni eshitib g'azablanibdi.",
+            "en": "An old man caught a golden fish that offered to grant wishes for its freedom. The kind man let it go, but his wife was furious.",
+            "ru": "Старик поймал золотую рыбку, которая взмолилась о свободе и пообещала откуп. Старик отпустил ее, но его старуха разбранила его."
+          },
+          "sources": {
+            "uz": [
+              "Pushkin ertaklari, Bolalar kutubxonasi"
+            ],
+            "en": [
+              "Pushkin's Fairy Tales"
+            ],
+            "ru": [
+              "Сказки Пушкина"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/tdOX7P4_eVU",
+              "videoTitle": "Oltin Baliqcha Animatsion Multfilmi (O'zbek tilida - 50 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/tdOX7P4_eVU",
+              "videoTitle": "Oltin Baliqcha Animatsion Multfilmi (O'zbek tilida - 50 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/tdOX7P4_eVU",
+              "videoTitle": "Oltin Baliqcha Animatsion Multfilmi (O'zbek tilida - 50 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Ko'k dengiz qirg'og'i",
+                "en": "Blue Sea Shore Map",
+                "ru": "Карта синего моря"
+              },
+              "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Cholning kulbasi",
+                  "x": 20,
+                  "y": 70,
+                  "info": "Eski yamoq teshik tog'ora va kulba"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Kampirning oxirgi xohishi nima edi?",
+              "en": "What was the wife's last wish?",
+              "ru": "Каким было последнее желание старухи?"
+            },
+            "options": {
+              "uz": [
+                "Dengizlar hukmdori bo'lish",
+                "Yangi kulba olish",
+                "Yangi tog'ora so'rash"
+              ],
+              "en": [
+                "To rule the seas",
+                "A new cottage",
+                "A new tub"
+              ],
+              "ru": [
+                "Стать владычицей морскою",
+                "Новую избу",
+                "Новое корыто"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "11",
+      "title": {
+        "uz": "Rapunzel",
+        "en": "Rapunzel",
+        "ru": "Рапунцель"
+      },
+      "author": "Aka-uka Grimm",
+      "genre": "Bolalar, Sarguzasht",
+      "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Baland minorada yashiringan, oltin sochli go'zal malika Rapunzel va uni qutqargan shahzoda sarguzashtlari.",
+        "en": "The magic story of Rapunzel, a girl with beautiful long golden hair locked away in a tower by an evil witch.",
+        "ru": "Волшебная сказка о Рапунцель, девушке с прекрасными длинными золотыми волосами, заточенной в башне."
+      },
+      "chapters": [
+        {
+          "id": "11-1",
+          "title": {
+            "uz": "1-bob: Oltin sochlar minorasi",
+            "en": "Chapter 1: The Tower of Golden Hair",
+            "ru": "Глава 1: Башня золотых волос"
+          },
+          "content": {
+            "uz": "Yomon sehrgar kampir Rapunzelni baland minoraga solib qo'ygan edi. U minoraga sehrli oltin sochlarga tirmashib chiqar edi. Bir kuni minoradan o'tayotgan shahzoda Rapunzelning ovozini eshitdi.",
+            "en": "An evil witch locked Rapunzel in a high tower. She climbed up using Rapunzel's long golden hair. One day, a prince heard Rapunzel's voice.",
+            "ru": "Злая колдунья заперла Рапунцель в высокой башне. Она поднималась наверх по длинным золотым волосам. Однажды принц услышал ее пение."
+          },
+          "sources": {
+            "uz": [
+              "Grimm ertaklari to'liq nusxasi"
+            ],
+            "en": [
+              "Grimm's Fairy Tales Complete"
+            ],
+            "ru": [
+              "Сказки братьев Гримм"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/_gBe952ev-M",
+              "videoTitle": "Rapunzel va Mashhur Multfilmlar (O'zbek tilida - 50 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/_gBe952ev-M",
+              "videoTitle": "Rapunzel va Mashhur Multfilmlar (O'zbek tilida - 50 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/_gBe952ev-M",
+              "videoTitle": "Rapunzel va Mashhur Multfilmlar (O'zbek tilida - 50 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Minora o'rmoni",
+                "en": "Tower Forest Map",
+                "ru": "Карта леса с башней"
+              },
+              "image": "https://images.unsplash.com/photo-1518818419601-72c8673f5852?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Minora",
+                  "x": 50,
+                  "y": 30,
+                  "info": "Rapunzel saqlanayotgan baland minora"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Rapunzelning sochi qanday rangda edi?",
+              "en": "What color was Rapunzel's hair?",
+              "ru": "Какого цвета были волосы Рапунцель?"
+            },
+            "options": {
+              "uz": [
+                "Oltin-sariq",
+                "Qora",
+                "Jigarrang"
+              ],
+              "en": [
+                "Golden-yellow",
+                "Black",
+                "Brown"
+              ],
+              "ru": [
+                "Золотисто-желтые",
+                "Черные",
+                "Коричневые"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "12",
+      "title": {
+        "uz": "Aql va Davlat",
+        "en": "Mind and Wealth",
+        "ru": "Ум и Богатство"
+      },
+      "author": "O'zbek xalq ertaklari",
+      "genre": "Bolalar, Ibratli",
+      "cover": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Inson hayotida aql muhimroqmi yoki boylik degan savol atrofida ajoyib bahs-munozara va uning yechimi.",
+        "en": "A moral Uzbek fable exploring what is more valuable in life: intelligence or wealth.",
+        "ru": "Поучительная узбекская сказка, отвечающая на вопрос: что важнее в жизни — ум или богатство."
+      },
+      "chapters": [
+        {
+          "id": "12-1",
+          "title": {
+            "uz": "1-bob: Aql va Davlat tortishuvi",
+            "en": "Chapter 1: The Dispute of Mind and Wealth",
+            "ru": "Глава 1: Спор Ума и Богатства"
+          },
+          "content": {
+            "uz": "Aql va Davlat yo'lda uchrashib qolibdi. Ular 'Odamzodga men kerakliroqman!' deb bahslashishibdi. Buni isbotlash uchun bir kambag'al yigitni tanlabdilar va sinov o'tkazibdilar.",
+            "en": "Mind and Wealth argued about who was more useful to humans. To settle this, they tested a poor boy.",
+            "ru": "Ум и Богатство поспорили, кто из них важнее для человека. Чтобы разрешить спор, они решили испытать бедного парня."
+          },
+          "sources": {
+            "uz": [
+              "Aqlvoy to'plami, O'zbek xalq og'zaki ijodi"
+            ],
+            "en": [
+              "Eastern Wisdom Stories Collection"
+            ],
+            "ru": [
+              "Восточные мудрые притчи"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/bpnWlFr7s_c",
+              "videoTitle": "Aql va Davlat Audio Ertaklar To'plami (O'zbek tilida - 60 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/bpnWlFr7s_c",
+              "videoTitle": "Aql va Davlat Audio Ertaklar To'plami (O'zbek tilida - 60 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/bpnWlFr7s_c",
+              "videoTitle": "Aql va Davlat Audio Ertaklar To'plami (O'zbek tilida - 60 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Yigitning dalasi",
+                "en": "The Boy's Field Map",
+                "ru": "Карта поля юноши"
+              },
+              "image": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Yaylov",
+                  "x": 40,
+                  "y": 45,
+                  "info": "Aql va Davlat sinov o'tkazgan joy"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Ertak oxirida qaysi biri g'olib chiqdi?",
+              "en": "Which one won at the end of the story?",
+              "ru": "Кто победил в конце сказки?"
+            },
+            "options": {
+              "uz": [
+                "Aql boyliksiz ham yo'l topa oldi",
+                "Boylik aqlsiz hukmron bo'ldi",
+                "Ikkalasi teng bo'lib qoldi"
+              ],
+              "en": [
+                "Mind found the way even without wealth",
+                "Wealth ruled without mind",
+                "Both stayed equal"
+              ],
+              "ru": [
+                "Ум нашел выход и без богатства",
+                "Богатство правит без ума",
+                "Оба остались равны"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "13",
+      "title": {
+        "uz": "Oltin Tarvuz",
+        "en": "The Golden Watermelon",
+        "ru": "Золотой арбуз"
+      },
+      "author": "O'zbek xalq ertaklari",
+      "genre": "Bolalar, Ertaklar",
+      "cover": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Yaxshilik va saxovatli dehqon hamda hasadgo'y ochko'z qo'shni haqidagi juda ibratli o'zbek ertagi.",
+        "en": "The moral story about a kind farmer who saves a wounded stork, and receives a golden watermelon seed in return.",
+        "ru": "Поучительная узбекская сказка о добром дехканине, спасшем аиста, и о его жадном соседе."
+      },
+      "chapters": [
+        {
+          "id": "13-1",
+          "title": {
+            "uz": "1-bob: Yarador laylak",
+            "en": "Chapter 1: The Wounded Stork",
+            "ru": "Глава 1: Раненый аист"
+          },
+          "content": {
+            "uz": "Bir kambag'al dehqon yarador laylakni topib olib, uning singan qanotini davolabdi. Laylak minnatdor bo'lib uchta sehrli urug' olib kelibdi. Dehqon uni eksa, ichidan tillo tangalar chiqqan ulkan tarvuzlar bo'lib yetishibdi.",
+            "en": "A poor farmer rescued a wounded stork and healed its broken wing. The grateful bird returned with three seeds that grew into giant golden watermelons.",
+            "ru": "Бедный дехканин выходил раненого аиста. Благодарный аист принес три волшебных семечка, из которых выросли золотые арбузы."
+          },
+          "sources": {
+            "uz": [
+              "Xalq ertaklari oltin xazinasi"
+            ],
+            "en": [
+              "Uzbek Folk Tales Treasury"
+            ],
+            "ru": [
+              "Узбекские сказки"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/zNzDd_TRgP4",
+              "videoTitle": "Oltin Tarvuz va Axloqiy Ertaklar (O'zbek tilida - 55 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/zNzDd_TRgP4",
+              "videoTitle": "Oltin Tarvuz va Axloqiy Ertaklar (O'zbek tilida - 55 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/zNzDd_TRgP4",
+              "videoTitle": "Oltin Tarvuz va Axloqiy Ertaklar (O'zbek tilida - 55 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Tarvuz polizi",
+                "en": "Watermelon Field Map",
+                "ru": "Карта арбузного поля"
+              },
+              "image": "https://images.unsplash.com/photo-1595855759920-86582396756a?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Poliz",
+                  "x": 30,
+                  "y": 50,
+                  "info": "Tillo tarvuzlar ekilgan joy"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Kambag'al dehqon qaysi jonivorga yordam berdi?",
+              "en": "Which animal did the poor farmer help?",
+              "ru": "Какому животному помог бедный дехканин?"
+            },
+            "options": {
+              "uz": [
+                "Laylakka",
+                "Qaldirg'ochga",
+                "Burgutga"
+              ],
+              "en": [
+                "Stork",
+                "Swallow",
+                "Eagle"
+              ],
+              "ru": [
+                "Аисту",
+                "Ласточке",
+                "Орлу"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "14",
+      "title": {
+        "uz": "Aka-uka Grimm: Olti Oqqush",
+        "en": "The Six Swans",
+        "ru": "Шесть лебедей"
+      },
+      "author": "Aka-uka Grimm",
+      "genre": "Bolalar, Jahon adabiyoti",
+      "cover": "https://images.unsplash.com/photo-1511216335778-7cb8f49fa7a3?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Sehrgarning sehr-jodusi tufayli oqqushga aylangan olti aka-uka va ularni qutqargan qahramon singil.",
+        "en": "The classic Grimm Brothers tale of a sister who must stay silent for six years to weave shirts that will turn her swan brothers back into humans.",
+        "ru": "Классическая сказка братьев Гримм о сестре, которая должна шесть лет молчать, чтобы спасти своих братьев, превращенных в лебедей."
+      },
+      "chapters": [
+        {
+          "id": "14-1",
+          "title": {
+            "uz": "1-bob: Oqqushlar parvozi",
+            "en": "Chapter 1: The Flight of Swans",
+            "ru": "Глава 1: Полет лебедей"
+          },
+          "content": {
+            "uz": "Sehrgar o'gay ona shohning olti o'g'lini sehrli ko'ylak kiygizib oqqushga aylantirib yuboribdi. Ularning singli aka-ukalarini sehrdan xalos etish uchun o'rmonga ketibdi va qiyinchiliklar bilan ko'ylak to'qiy boshlabdi.",
+            "en": "An evil stepmother turned six princes into swans. Their sister set off to the forest to weave magical shirts to break the spell.",
+            "ru": "Злая мачеха превратила шестерых принцев в лебедей. Их сестра отправилась в лес, чтобы соткать рубашки и снять проклятие."
+          },
+          "sources": {
+            "uz": [
+              "Aka-uka Grimm ertaklari, Sharq nashriyoti"
+            ],
+            "en": [
+              "Grimm's Complete Collection"
+            ],
+            "ru": [
+              "Сказки братьев Гримм"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/m-CexnZ2ALY",
+              "videoTitle": "Olti Oqqush - Aka-uka Grimm Multfilmi (O'zbek tilida - 50 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/m-CexnZ2ALY",
+              "videoTitle": "Olti Oqqush - Aka-uka Grimm Multfilmi (O'zbek tilida - 50 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/m-CexnZ2ALY",
+              "videoTitle": "Olti Oqqush - Aka-uka Grimm Multfilmi (O'zbek tilida - 50 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Sehrli Oqqushlar ko'li",
+                "en": "Swan Lake Map",
+                "ru": "Карта лебединого озера"
+              },
+              "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Ko'l",
+                  "x": 50,
+                  "y": 45,
+                  "info": "Oqqushlar suzadigan ko'l"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Aka-ukalar sehr tufayli qaysi qushga aylandilar?",
+              "en": "Which bird did the brothers turn into?",
+              "ru": "В какую птицу превратились братья?"
+            },
+            "options": {
+              "uz": [
+                "Oqqushga",
+                "Burgutga",
+                "Qaldirg'ochga"
+              ],
+              "en": [
+                "Swan",
+                "Eagle",
+                "Swallow"
+              ],
+              "ru": [
+                "В лебедя",
+                "В орла",
+                "В ласточку"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "15",
+      "title": {
+        "uz": "Temir Odam",
+        "en": "Iron Hans",
+        "ru": "Железный Ганс"
+      },
+      "author": "Aka-uka Grimm",
+      "genre": "Bolalar, Afsona",
+      "cover": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "O'rmondagi temirsimon yovvoyi odam va shohning o'g'li o'rtasidagi sehrli do'stlik afsonasi.",
+        "en": "The classic Grimm story about Iron John, a wild man covered in iron, and a young prince who sets him free.",
+        "ru": "Классическая сказка братьев Гримм о диком Железном Гансе и молодом принце, который освободил его."
+      },
+      "chapters": [
+        {
+          "id": "15-1",
+          "title": {
+            "uz": "1-bob: Sehrli do'stlik",
+            "en": "Chapter 1: The Magic Friendship",
+            "ru": "Глава 1: Волшебная дружба"
+          },
+          "content": {
+            "uz": "Shohning bog'boni o'rmonda yovvoyi temir odamni tutibdi. Uni shoh qafasga solib qo'yibdi. Shahzoda to'pini qafas ichiga tushirib yuboribdi va temir odamni ozod qilish evaziga to'pni qaytarib olibdi.",
+            "en": "The king's hunter captured a wild iron man in the forest. The prince dropped his ball into the cage and freed the man to get it back.",
+            "ru": "Охотник поймал лесного дикого железного человека. Принц уронил мяч в клетку и освободил лесного великана, чтобы забрать мяч."
+          },
+          "sources": {
+            "uz": [
+              "Aka-uka Grimm oltin kitobi, Yosh gvardiya"
+            ],
+            "en": [
+              "Grimm's Classics"
+            ],
+            "ru": [
+              "Сказки братьев Гримм"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/Y3OPxXsgzb4",
+              "videoTitle": "Temir Odam Multfilmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/Y3OPxXsgzb4",
+              "videoTitle": "Temir Odam Multfilmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/Y3OPxXsgzb4",
+              "videoTitle": "Temir Odam Multfilmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Shoh bog'i",
+                "en": "King's Garden Map",
+                "ru": "Карта королевского сада"
+              },
+              "image": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Qafas",
+                  "x": 45,
+                  "y": 50,
+                  "info": "Temir odam yopilgan temir qafas"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Shahzoda qafas ichiga nimasini tushirib yubordi?",
+              "en": "What did the prince drop inside the cage?",
+              "ru": "Что принц уронил в клетку?"
+            },
+            "options": {
+              "uz": [
+                "Oltin to'pini",
+                "Qilichini",
+                "Uzugini"
+              ],
+              "en": [
+                "His golden ball",
+                "His sword",
+                "His ring"
+              ],
+              "ru": [
+                "Свой золотой мяч",
+                "Свой меч",
+                "Свое кольцо"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "16",
+      "title": {
+        "uz": "O'rmon Yalmog'izi",
+        "en": "The Witch of the Forest",
+        "ru": "Лесная ведьма"
+      },
+      "author": "Aka-uka Grimm",
+      "genre": "Bolalar, Sarguzasht",
+      "cover": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Sehrli o'rmonda yashovchi ayyor yalmog'iz va adashib qolgan aka-singillar haqidagi sehrli jahon ertagi.",
+        "en": "The adventure of young kids lost in a deep dark forest finding a cottage belonging to a dangerous witch.",
+        "ru": "Приключение детей, заблудившихся в дремучем лесу и набредших на избушку лесной ведьмы."
+      },
+      "chapters": [
+        {
+          "id": "16-1",
+          "title": {
+            "uz": "1-bob: Sehrli uycha",
+            "en": "Chapter 1: The Magic House",
+            "ru": "Глава 1: Волшебный домик"
+          },
+          "content": {
+            "uz": "Bolalar o'rmonda adashib, shirinliklardan qurilgan sehrli uychani topibdilar. Uycha ichida yomon o'rmon yalmog'izi yashar ekan. U bolalarni asir olibdi, ammo aqlli qizaloq yalmog'izni aldav, undan qutulibdi.",
+            "en": "Kids got lost in the forest and found a sweet cottage. Inside lived a witch who captured them, but a clever girl outsmarted her.",
+            "ru": "Дети заблудились в лесу и нашли пряничный домик. В нем жила лесная ведьма, которая поймала их, но умная девочка перехитрила её."
+          },
+          "sources": {
+            "uz": [
+              "Aka-uka Grimm ertaklari klassik to'plami"
+            ],
+            "en": [
+              "Grimm's Fairy Tales Collection"
+            ],
+            "ru": [
+              "Сказки братьев Гримм"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/I0pR6niDGFM",
+              "videoTitle": "O'rmon Yalmog'izi Multfilmi (O'zbek tilida - 55 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/I0pR6niDGFM",
+              "videoTitle": "O'rmon Yalmog'izi Multfilmi (O'zbek tilida - 55 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/I0pR6niDGFM",
+              "videoTitle": "O'rmon Yalmog'izi Multfilmi (O'zbek tilida - 55 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Shirinliklar uyi",
+                "en": "Gingerbread House Map",
+                "ru": "Карта пряничного домика"
+              },
+              "image": "https://images.unsplash.com/photo-1543257580-7269da773bf5?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Shirinlik uychasi",
+                  "x": 50,
+                  "y": 50,
+                  "info": "Shokolad va pechenyelardan qurilgan uycha"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Yalmog'izning uychasi nimadan qurilgan edi?",
+              "en": "What was the witch's house made of?",
+              "ru": "Из чего был сделан домик ведьмы?"
+            },
+            "options": {
+              "uz": [
+                "Shirinliklardan",
+                "Toshdan",
+                "Yog'ochdan"
+              ],
+              "en": [
+                "Sweets/Gingerbread",
+                "Stone",
+                "Wood"
+              ],
+              "ru": [
+                "Из сладостей",
+                "Из камня",
+                "Из дерева"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "17",
+      "title": {
+        "uz": "Uchta Ahmoq",
+        "en": "The Three Fools",
+        "ru": "Три глупца"
+      },
+      "author": "O'zbek xalq ertaklari",
+      "genre": "Bolalar, Kulgili",
+      "cover": "https://images.unsplash.com/photo-1531844251246-9a1bfaae0d56?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Sodda va ahmoqona ishlari bilan kulgiga qolgan uch kishi haqidagi qiziqarli va tarbiyaviy o'zbek xalq ertagi.",
+        "en": "A humorous Uzbek folk tale about three foolish travelers and their silly choices along their journey.",
+        "ru": "Юмористическая узбекская народная сказка о трех глупцах и их нелепых приключениях."
+      },
+      "chapters": [
+        {
+          "id": "17-1",
+          "title": {
+            "uz": "1-bob: Ahmoqlar safari",
+            "en": "Chapter 1: The Fools' Journey",
+            "ru": "Глава 1: Путешествие глупцов"
+          },
+          "content": {
+            "uz": "Uch kishi yo'lga chiqibdi. Ular juda oddiy narsalarni ham tushunmasdan ahmoqona ishlarni qilishibdi va har safar kulgili vaziyatlarga tushishibdi. Bu ertak odamlarni aqlli va ehtiyotkor bo'lishga chaqiradi.",
+            "en": "Three men set off on a trip. They failed to understand simple things, leading to funny and silly situations.",
+            "ru": "Три человека отправились в путь. Они не понимали простых вещей, совершая глупые поступки и попадая в смешные ситуации."
+          },
+          "sources": {
+            "uz": [
+              "O'zbek xalq hajviy ertaklari"
+            ],
+            "en": [
+              "Humorous Uzbek Folk Tales"
+            ],
+            "ru": [
+              "Юмористические узбекские сказки"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/HoQhcs1FIQk",
+              "videoTitle": "Uchta Ahmoq Multfilmi va Hikoyalar (O'zbek tilida - 50 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/HoQhcs1FIQk",
+              "videoTitle": "Uchta Ahmoq Multfilmi va Hikoyalar (O'zbek tilida - 50 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/HoQhcs1FIQk",
+              "videoTitle": "Uchta Ahmoq Multfilmi va Hikoyalar (O'zbek tilida - 50 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Safar chorrahasi",
+                "en": "Travel Crossroads Map",
+                "ru": "Карта перекрестка дорог"
+              },
+              "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Chorraha",
+                  "x": 50,
+                  "y": 50,
+                  "info": "Uch ahmoq uchrashgan chorraha"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Ertak bizni nimalarga o'rgatadi?",
+              "en": "What does the story teach us?",
+              "ru": "Чему учит нас эта сказка?"
+            },
+            "options": {
+              "uz": [
+                "Aqlli, ziyrak va dono bo'lishga",
+                "Dangasalikka",
+                "Tez yugurishga"
+              ],
+              "en": [
+                "To be smart, alert, and wise",
+                "To be lazy",
+                "To run fast"
+              ],
+              "ru": [
+                "Быть умными, бдительными и мудрыми",
+                "Быть ленивыми",
+                "Быстро бегать"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "18",
+      "title": {
+        "uz": "Masha va Ayiq",
+        "en": "Masha and the Bear",
+        "ru": "Маша и Медведь"
+      },
+      "author": "Oleg Kuzovkov",
+      "genre": "Bolalar, Komediya",
+      "cover": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Sho'x qizaloq Masha va uning g'amxo'r do'sti Ayiqning o'rmondagi quvnoq sarguzashtlari haqidagi zamonaviy ertak-multfilm.",
+        "en": "The hilarious adventures of a mischievous little girl Masha and her retired circus friend Bear in the forest.",
+        "ru": "Веселые приключения озорной девочки Маши и её заботливого друга Медведя в лесу."
+      },
+      "chapters": [
+        {
+          "id": "18-1",
+          "title": {
+            "uz": "1-bob: Yangi do'stlik",
+            "en": "Chapter 1: New Friendship",
+            "ru": "Глава 1: Новая дружба"
+          },
+          "content": {
+            "uz": "Masha o'rmonda adashib ketib, Ayiqning chiroyli va tartibli uyiga kirib qolibdi. U yerda hamma narsani tartibsiz qilib tashlabdi. Ayiq qaytib kelib Mashani o'rmonga qaytarishga urinsa-da, keyinchalik unga o'rganib qolibdi va yaqin do'st bo'lib qolishibdi.",
+            "en": "Masha got lost in the forest and stumbled upon Bear's cozy house. She messed up everything. Though Bear tried to return her, they became best friends.",
+            "ru": "Маша заблудилась в лесу и забрела в аккуратный домик Медведя. Она устроила там беспорядок. Медведь пытался от неё избавиться, но они подружились."
+          },
+          "sources": {
+            "uz": [
+              "Masha va Ayiq rasmiy animatsion kitoblari"
+            ],
+            "en": [
+              "Masha and the Bear Official Storybooks"
+            ],
+            "ru": [
+              "Книги по мультфильму Маша и Медведь"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/4bKcq6N0cSA",
+              "videoTitle": "Masha va Ayiq Multfilmlar To'plami (O'zbek tilida - 60 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/4bKcq6N0cSA",
+              "videoTitle": "Masha va Ayiq Multfilmlar To'plami (O'zbek tilida - 60 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/4bKcq6N0cSA",
+              "videoTitle": "Masha va Ayiq Multfilmlar To'plami (O'zbek tilida - 60 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Ayiqning uyi xaritasi",
+                "en": "Map of Bear's House",
+                "ru": "Карта дома Медведя"
+              },
+              "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Ayiqning uychasi",
+                  "x": 50,
+                  "y": 45,
+                  "info": "Masha va Ayiq yashaydigan shinam uycha"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Ayiq avval qayerda ishlagan?",
+              "en": "Where did the Bear work before?",
+              "ru": "Где раньше работал Медведь?"
+            },
+            "options": {
+              "uz": [
+                "Sirkda",
+                "Teatrda",
+                "Hayvonot bog'ida"
+              ],
+              "en": [
+                "In the circus",
+                "In the theater",
+                "In the zoo"
+              ],
+              "ru": [
+                "В цирке",
+                "В театре",
+                "В зоопарке"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "19",
+      "title": {
+        "uz": "Tom va Jerri",
+        "en": "Tom and Jerry",
+        "ru": "Том и Джерри"
+      },
+      "author": "Uilyam Hanna va Jozef Barbera",
+      "genre": "Bolalar, Sarguzasht",
+      "cover": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Tom ismli mushuk va Jerri ismli aqlli sichqonchaning quvnoq va cheksiz quvib o'tishlar sarguzashtlari.",
+        "en": "The legendary comedic rivalry between a cat named Tom and a clever mouse named Jerry.",
+        "ru": "Легендарное комедийное противостояние кота Тома и умного мышонка Джерри."
+      },
+      "chapters": [
+        {
+          "id": "19-1",
+          "title": {
+            "uz": "1-bob: Mushuk-sichqon o'yini",
+            "en": "Chapter 1: The Cat and Mouse Game",
+            "ru": "Глава 1: Игра в кошки-мышки"
+          },
+          "content": {
+            "uz": "Tom uyni qo'riqlash va Jerrini tutish uchun har xil murakkab tuzoqlar qo'yadi. Ammo zukko va epchil Jerri doimo Tomning hiylalarini o'ziga qarshi burib, Tomni kulgiga qoldiradi va omon qoladi.",
+            "en": "Tom sets complicated traps to catch Jerry, but the clever mouse always outsmarts him, turning the traps against Tom.",
+            "ru": "Том расставляет сложные ловушки, чтобы поймать Джерри. Но умный мышонок всегда перехитряет его, оборачивая ловушки против кота."
+          },
+          "sources": {
+            "uz": [
+              "Hanna-Barbera klassik hikoyalari"
+            ],
+            "en": [
+              "Hanna-Barbera Classic Comics"
+            ],
+            "ru": [
+              "Классические комиксы Ханна-Барбера"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/DCbuVcac9aU",
+              "videoTitle": "Tom va Jerri O'zbekcha Tarjima Multfilmlari (O'zbek tilida - 50 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/DCbuVcac9aU",
+              "videoTitle": "Tom va Jerri O'zbekcha Tarjima Multfilmlari (O'zbek tilida - 50 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/DCbuVcac9aU",
+              "videoTitle": "Tom va Jerri O'zbekcha Tarjima Multfilmlari (O'zbek tilida - 50 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Tom yashaydigan uy xaritasi",
+                "en": "Map of Tom's House",
+                "ru": "Карта дома Тома"
+              },
+              "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Sichqon uychasi",
+                  "x": 10,
+                  "y": 80,
+                  "info": "Jerrining devor tagidagi kichik uychasi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Mushukning ismi nima edi?",
+              "en": "What is the cat's name?",
+              "ru": "Как зовут кота?"
+            },
+            "options": {
+              "uz": [
+                "Tom",
+                "Jerri",
+                "Spayk"
+              ],
+              "en": [
+                "Tom",
+                "Jerry",
+                "Spike"
+              ],
+              "ru": [
+                "Том",
+                "Джерри",
+                "Спайк"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "20",
+      "title": {
+        "uz": "Qunduz Amaking Qissalari",
+        "en": "Stories of Uncle Beaver",
+        "ru": "Сказки дяди Бобра"
+      },
+      "author": "O'zbek xalq ertaklari",
+      "genre": "Bolalar, Hayvonlar haqida",
+      "cover": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Qunduz amaki va uning o'rmondagi hayvon bolalariga aytib beradigan juda ibratli va tarbiyaviy hikoyalari.",
+        "en": "Fascinating moral fables and stories told by Uncle Beaver to forest children.",
+        "ru": "Поучительные истории и басни, которые рассказывает дядя Бобр лесным зверятам."
+      },
+      "chapters": [
+        {
+          "id": "20-1",
+          "title": {
+            "uz": "1-bob: Do'stlikning kuchi",
+            "en": "Chapter 1: Power of Friendship",
+            "ru": "Глава 1: Сила дружбы"
+          },
+          "content": {
+            "uz": "Qunduz amaki o'rmon ahliga do'stlikning ahamiyati haqida ertak so'zlab berdi. Ertakda turli hayvonlar birgalikda to'siqlarni yengib, qiyinchilikda qolgan do'stlarini qutqarganlari bayon qilinadi.",
+            "en": "Uncle Beaver tells a story about how animals solved problems together and rescued each other, highlighting friendship.",
+            "ru": "Дядя Бобр рассказывает историю о том, как лесные звери сплотились, чтобы преодолеть трудности и спасти друга."
+          },
+          "sources": {
+            "uz": [
+              "Bolalar axloqiy ertaklari to'plami"
+            ],
+            "en": [
+              "Moral Bedtime Stories for Kids"
+            ],
+            "ru": [
+              "Сборник детских поучительных сказок"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/ZgA9fFPo8p8",
+              "videoTitle": "Qunduz Amaking Qissalari To'liq Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/ZgA9fFPo8p8",
+              "videoTitle": "Qunduz Amaking Qissalari To'liq Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/ZgA9fFPo8p8",
+              "videoTitle": "Qunduz Amaking Qissalari To'liq Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "O'rmon maktabi",
+                "en": "Forest School Map",
+                "ru": "Карта лесной школы"
+              },
+              "image": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Qunduz uyi",
+                  "x": 60,
+                  "y": 30,
+                  "info": "Qunduz amaki ertak aytadigan joy"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Ertak so'zlovchi hayvon kim edi?",
+              "en": "Who was the story-telling animal?",
+              "ru": "Какой зверь рассказывал сказки?"
+            },
+            "options": {
+              "uz": [
+                "Qunduz",
+                "Ayiq",
+                "Tulki"
+              ],
+              "en": [
+                "Beaver",
+                "Bear",
+                "Fox"
+              ],
+              "ru": [
+                "Бобер",
+                "Медведь",
+                "Лиса"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "21",
+      "title": {
+        "uz": "Maugli (Chungli Kitobi)",
+        "en": "Mowgli (The Jungle Book)",
+        "ru": "Маугли (Книга Джунглей)"
+      },
+      "author": "Redyard Kipling",
+      "genre": "Bolalar, Sarguzasht",
+      "cover": "https://images.unsplash.com/photo-1448375240586-882707db888b?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Chunglida bo'rilar oilasida tarbiyalangan inson bolasi Maugli va uning yo'lbars Sherxonga qarshi kurashi.",
+        "en": "The adventure of Mowgli, a human child raised by wolves in the Indian jungle, and his fight against Shere Khan.",
+        "ru": "История Маугли, человеческого ребенка, выращенного волками в джунглях, и его борьбы с тигром Шерханом."
+      },
+      "chapters": [
+        {
+          "id": "21-1",
+          "title": {
+            "uz": "1-bob: Bo'ri bolalari",
+            "en": "Chapter 1: Wolf Pack Children",
+            "ru": "Глава 1: Дети волчьей стаи"
+          },
+          "content": {
+            "uz": "Kichik yoshli bola o'rmonda adashib bo'rilar g'origa kirib qoldi. Ona bo'ri uni Sherxondan himoya qilib, o'z oilasiga qabul qildi va ismini Maugli deb qo'ydi. Bagira va Balu u zotga o'rmon qonunlarini o'rgatdilar.",
+            "en": "A lost human baby crawled into a wolves' cave. Mother wolf saved him from Shere Khan, named him Mowgli. Bagheera and Baloo taught him the jungle law.",
+            "ru": "Человеческий малыш забрел в пещеру волков. Мать-волчица спасла его от Шерхана, назвала Маугли. Багира и Балу учили его законам джунглей."
+          },
+          "sources": {
+            "uz": [
+              "Chungli kitobi, Redyard Kipling"
+            ],
+            "en": [
+              "The Jungle Book, Rudyard Kipling"
+            ],
+            "ru": [
+              "Книга джунглей, Редьярд Киплинг"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/pkGy66Qx8Ug",
+              "videoTitle": "Maugli To'liq Multfilmi (O'zbek tilida - 70 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/pkGy66Qx8Ug",
+              "videoTitle": "Maugli To'liq Multfilmi (O'zbek tilida - 70 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/pkGy66Qx8Ug",
+              "videoTitle": "Maugli To'liq Multfilmi (O'zbek tilida - 70 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Chungli xaritasi",
+                "en": "Jungle Map",
+                "ru": "Карта джунглей"
+              },
+              "image": "https://images.unsplash.com/photo-1518818419601-72c8673f5852?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Balu maktabi",
+                  "x": 40,
+                  "y": 50,
+                  "info": "Maugli o'rmon qonunlarini o'rgangan joy"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Mauglining dushmani bo'lgan yo'lbarsning ismi nima edi?",
+              "en": "What was the name of the tiger who hated Mowgli?",
+              "ru": "Как звали тигра, врага Маугли?"
+            },
+            "options": {
+              "uz": [
+                "Sherxon",
+                "Bagira",
+                "Balu"
+              ],
+              "en": [
+                "Shere Khan",
+                "Bagheera",
+                "Baloo"
+              ],
+              "ru": [
+                "Шерхан",
+                "Багира",
+                "Балу"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "22",
+      "title": {
+        "uz": "Olovuddinning Sehrli Chirog'i",
+        "en": "Aladdin and the Magic Lamp",
+        "ru": "Волшебная лампа Аладдина"
+      },
+      "author": "Ming bir kecha",
+      "genre": "Bolalar, Sarguzasht",
+      "cover": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Kambag'al yigit Olovuddin, sehrli chiroqdagi jin va uning yovuz sehrgarga qarshi qahramonliklari.",
+        "en": "The legendary Arabian Nights tale of Aladdin, a poor street youth who finds a magic lamp with a wish-granting genie.",
+        "ru": "Легендарная восточная сказка об Аладдине, бедном юноше, нашедшем лампу с джинном, исполняющим желания."
+      },
+      "chapters": [
+        {
+          "id": "22-1",
+          "title": {
+            "uz": "1-bob: Sehrli g'or",
+            "en": "Chapter 1: The Magic Cave",
+            "ru": "Глава 1: Волшебная пещера"
+          },
+          "content": {
+            "uz": "Yovuz sehrgar Olovuddinni sehrli g'orga olib borib, chiroqni olib chiqishni buyurdi. Olovuddin chiroqni topdi, lekin sehrgar uni g'orda qoldirib ketdi. Yigit chiroqni ishqaganida, ichidan sehrli jin chiqib uni qutqardi.",
+            "en": "A wicked sorcerer trapped Aladdin in a magic cave to retrieve a lamp. Aladdin rubbed the lamp, summoning a genie who rescued him.",
+            "ru": "Злой колдун запер Аладдина в волшебной пещере. Аладдин потер старую лампу, вызвав джинна, который спас его."
+          },
+          "sources": {
+            "uz": [
+              "Ming bir kecha dostonlari"
+            ],
+            "en": [
+              "Arabian Nights Collection"
+            ],
+            "ru": [
+              "Сказки Тысячи и одной ночи"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/6qPGqf2ktWU",
+              "videoTitle": "Olovuddin va Sehrli Chiroq Multfilmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/6qPGqf2ktWU",
+              "videoTitle": "Olovuddin va Sehrli Chiroq Multfilmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/6qPGqf2ktWU",
+              "videoTitle": "Olovuddin va Sehrli Chiroq Multfilmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Agraba xaritasi",
+                "en": "Map of Agrabah",
+                "ru": "Карта Аграбы"
+              },
+              "image": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "G'azna g'ori",
+                  "x": 80,
+                  "y": 70,
+                  "info": "Sehrli chiroq saqlangan xavfli g'or"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Chiroq ichidan kim chiqdi?",
+              "en": "Who came out of the lamp?",
+              "ru": "Кто вышел из лампы?"
+            },
+            "options": {
+              "uz": [
+                "Sehrli Jin",
+                "Sehrgar",
+                "Ajdaho"
+              ],
+              "en": [
+                "Genie",
+                "Sorcerer",
+                "Dragon"
+              ],
+              "ru": [
+                "Джинн",
+                "Колдун",
+                "Дракон"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "23",
+      "title": {
+        "uz": "Mittivoylar (Yangi Sarguzashtlar)",
+        "en": "The Smurfs (New Adventures)",
+        "ru": "Смурфики (Новые приключения)"
+      },
+      "author": "Peyo",
+      "genre": "Bolalar, Fantastika",
+      "cover": "https://images.unsplash.com/photo-1560942485-b2a11cc13456?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Sehrli o'rmonda yashovchi jajji ko'k mittivoylar va ularni tutib sehr qilmoqchi bo'lgan yovuz sehrgar Gargamel hikoyasi.",
+        "en": "The fantasy story of little blue creatures living in mushroom houses, and their escape from the evil wizard Gargamel.",
+        "ru": "Фантастическая история маленьких синих существ, живущих в лесу, и их противостояния злому колдуну Гаргамелю."
+      },
+      "chapters": [
+        {
+          "id": "23-1",
+          "title": {
+            "uz": "1-bob: Qo'ziqorinli qishloq",
+            "en": "Chapter 1: Mushroom Village",
+            "ru": "Глава 1: Грибная деревня"
+          },
+          "content": {
+            "uz": "Mittivoylar o'rmon o'rtasida tinch-totuv yashab, bir-birlariga yordam berar edilar. Biroq, Gargamel ularning qishlog'ini topib olish maqsadida sehrli kitobidan foydalana boshladi. Zukko Papa Mittivoy qishloqni himoya qilish choralarni ko'rdi.",
+            "en": "Smurfs lived peacefully in their mushroom houses. Gargamel tried to locate their village, but Papa Smurf protected them.",
+            "ru": "Смурфики мирно жили в лесных домиках-грибах. Гаргамель пытался выследить их, но Папа Смурф вовремя принял меры защиты."
+          },
+          "sources": {
+            "uz": [
+              "Mittivoylar rasmiy multfilm hikoyalari"
+            ],
+            "en": [
+              "The Smurfs Story Library"
+            ],
+            "ru": [
+              "Книги о Смурфиках"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/hnOhr-fZsiM",
+              "videoTitle": "Mittivoylar Sarguzashtlari Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/hnOhr-fZsiM",
+              "videoTitle": "Mittivoylar Sarguzashtlari Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/hnOhr-fZsiM",
+              "videoTitle": "Mittivoylar Sarguzashtlari Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Mittivoylar qishlog'i",
+                "en": "Smurf Village Map",
+                "ru": "Карта деревни Смурфиков"
+              },
+              "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Qo'ziqorin uylar",
+                  "x": 50,
+                  "y": 50,
+                  "info": "Mittivoylar uylari"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Mittivoylar boshlig'ining ismi nima edi?",
+              "en": "What is the leader's name?",
+              "ru": "Как зовут вожака Смурфиков?"
+            },
+            "options": {
+              "uz": [
+                "Papa Mittivoy",
+                "Gargamel",
+                "Dono Mittivoy"
+              ],
+              "en": [
+                "Papa Smurf",
+                "Gargamel",
+                "Brainy Smurf"
+              ],
+              "ru": [
+                "Папа Смурф",
+                "Гаргамель",
+                "Умник Смурф"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "24",
+      "title": {
+        "uz": "Lolo va Pepe sarguzashtlari",
+        "en": "Adventures of Lolo and Pepe",
+        "ru": "Приключения Лоло и Пепе"
+      },
+      "author": "Yapon va Sovet klassikasi",
+      "genre": "Bolalar, Tabiat",
+      "cover": "https://images.unsplash.com/photo-1517783999520-f068d7431a60?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Antarktidadagi qorlar orasida yashovchi shirin pingvinlar Lolo va Pepening qiziqarli hayoti va ularning brakonerlarga qarshi sarguzashtlari.",
+        "en": "The heartwarming journey of penguins Lolo and Pepe in Antarctica, escaping dangerous poachers and wild elements.",
+        "ru": "Трогательная история пингвинят Лоло и Пепе в Антарктиде, спасающихся от браконьеров."
+      },
+      "chapters": [
+        {
+          "id": "24-1",
+          "title": {
+            "uz": "1-bob: Qorlar bag'ridagi hayot",
+            "en": "Chapter 1: Life in Snows",
+            "ru": "Глава 1: Жизнь во льдах"
+          },
+          "content": {
+            "uz": "Lolo va Pepe kichkina pingvinlar bo'lib, ular doimo Antarktida muzliklarida sarguzasht qidirishar edi. Bir kuni ular orqa tomondagi katta muz bo'lagida suzib ketib qoldilar. Ular yomon baliqchilar to'riga tushdilar, ammo jasorat bilan u yerdan qochishga muvaffaq bo'ldilar.",
+            "en": "Lolo and Pepe were little penguins seeking adventure. Stranded on an iceberg, they fell into a poachers' ship but escaped bravely.",
+            "ru": "Маленькие пингвинята Лоло и Пепе искали приключений во льдах. Их унесло на льдине на корабль браконьеров, но они спаслись."
+          },
+          "sources": {
+            "uz": [
+              "Lolo va Pepe animatsion darsliklari"
+            ],
+            "en": [
+              "Adventures of Lolo the Penguin Scripts"
+            ],
+            "ru": [
+              "Сценарий мультфильма Приключения пингвиненка Лоло"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/nzbx8SLiKvw",
+              "videoTitle": "Lolo va Pepe Multfilmi (O'zbek Tilida - 60 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/nzbx8SLiKvw",
+              "videoTitle": "Lolo va Pepe Multfilmi (O'zbek Tilida - 60 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/nzbx8SLiKvw",
+              "videoTitle": "Lolo va Pepe Multfilmi (O'zbek Tilida - 60 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Antarktida xaritasi",
+                "en": "Map of Antarctica",
+                "ru": "Карта Антарктиды"
+              },
+              "image": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Pingvinlar koloniyasi",
+                  "x": 40,
+                  "y": 60,
+                  "info": "Pingvinlar yashaydigan joy"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Qahramonlar qaysi qutbda yashashadi?",
+              "en": "Which pole do the characters live on?",
+              "ru": "На каком полюсе живут герои?"
+            },
+            "options": {
+              "uz": [
+                "Janubiy qutbda (Antarktida)",
+                "Shimoliy qutbda (Arktika)",
+                "Ekvatorda"
+              ],
+              "en": [
+                "South Pole (Antarctica)",
+                "North Pole (Arctic)",
+                "Equator"
+              ],
+              "ru": [
+                "Южный полюс (Антарктида)",
+                [
+                  "Северный полюс (Арктика)"
+                ],
+                "Экватор"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "25",
+      "title": {
+        "uz": "Yettinchi Gnom",
+        "en": "The Seventh Dwarf",
+        "ru": "Седьмой гном"
+      },
+      "author": "Jahon sarguzashtlari",
+      "genre": "Bolalar, Fantastika",
+      "cover": "https://images.unsplash.com/photo-1601987177651-8edfe6c20009?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Kichkina gnomning xatosi tufayli butun qirollik muzlab qolgani va uni qutqarish uchun gnomlar safari.",
+        "en": "A clumsy youngest dwarf accidentally triggers an icy curse on princess Rose's castle, forcing all dwarfs to find a way to break it.",
+        "ru": "История о неуклюжем седьмом гноме, который случайно наложил ледяное заклятие на весь замок."
+      },
+      "chapters": [
+        {
+          "id": "25-1",
+          "title": {
+            "uz": "1-bob: Muzlagan qasr",
+            "en": "Chapter 1: The Frozen Castle",
+            "ru": "Глава 1: Замороженный замок"
+          },
+          "content": {
+            "uz": "Malika Rouzning 18 yoshlik tug'ilgan kunida yettinchi gnom Bodo tasodifan sehrli tugmani bosib yubordi va butun saroy muzlab qoldi. Yovuz sehrgarning muzlik la'natini faqatgina uning yordamchilari yengishi mumkin edi. Gnomlar birlashib ajdahoni qidirib yo'lga tushdilar.",
+            "en": "On princess Rose's birthday, the youngest dwarf Bobo accidentally triggered ice curse. Seven dwarfs set off to break the spell.",
+            "ru": "На дне рождения принцессы Розы младший гном Бобо случайно запустил ледяное проклятие. Семь гномов отправились в путь."
+          },
+          "sources": {
+            "uz": [
+              "Gnomlar va sehrli dunyo dostonlari"
+            ],
+            "en": [
+              "Dwarfs and Magic World Fables"
+            ],
+            "ru": [
+              "Сказки о гномах и волшебстве"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/V80zTWxeAV4",
+              "videoTitle": "Yettinchi Gnom Multfilmi (O'zbek Tilida - 60 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/V80zTWxeAV4",
+              "videoTitle": "Yettinchi Gnom Multfilmi (O'zbek Tilida - 60 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/V80zTWxeAV4",
+              "videoTitle": "Yettinchi Gnom Multfilmi (O'zbek Tilida - 60 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Sehrli qasr xaritasi",
+                "en": "Magic Castle Map",
+                "ru": "Карта волшебного замка"
+              },
+              "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Muz saroyi",
+                  "x": 50,
+                  "y": 40,
+                  "info": "Muzlab qolgan qirollik saroyi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "La'natni tasodifan kim boshlab yubordi?",
+              "en": "Who accidentally triggered the curse?",
+              "ru": "Кто случайно наложил проклятие?"
+            },
+            "options": {
+              "uz": [
+                "Eng kichik (Yettinchi) Gnom",
+                "Shohning vaziri",
+                "Malikaning o'zi"
+              ],
+              "en": [
+                "The youngest (Seventh) Dwarf",
+                "The King's advisor",
+                "The Princess herself"
+              ],
+              "ru": [
+                "Самый младший (Седьмой) Гном",
+                "Советник короля",
+                "Сама принцесса"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "26",
+      "title": {
+        "uz": "Quyonlar Maktabi",
+        "en": "Rabbit School",
+        "ru": "Школа зайцев"
+      },
+      "author": "Albert Sixtus",
+      "genre": "Bolalar, Sarguzasht",
+      "cover": "https://images.unsplash.com/photo-1591561954555-607968c989ab?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Quyonlar maktabida tahsil olayotgan yosh quyonchaning sehrli tuxumni himoya qilishdagi jasoratlari.",
+        "en": "The adventure of Max, a city rabbit who gets trapped in a traditional rabbit school and protects the Golden Egg.",
+        "ru": "Приключения Макса, городского зайца, который попадает в школу зайцев и защищает золотое яйцо."
+      },
+      "chapters": [
+        {
+          "id": "26-1",
+          "title": {
+            "uz": "1-bob: Oltin tuxum siri",
+            "en": "Chapter 1: Mystery of the Golden Egg",
+            "ru": "Глава 1: Тайна золотого яйца"
+          },
+          "content": {
+            "uz": "Max ismli yosh quyon tasodifan sehrli quyonlar maktabiga kelib qoldi. U yerda u qadimiy sehrli Oltin Tuxumni yovuz tulkilardan himoya qilish qobiliyatlariga ega bo'ldi va chinakam do'stlar topdi.",
+            "en": "Max accidentally lands in Rabbit School where he trains to protect the Golden Egg from sneaky foxes.",
+            "ru": "Заяц Макс попадает в лесную школу зайцев, где учится защищать древнее Золотое Яйцо от хитрых лис."
+          },
+          "sources": {
+            "uz": [
+              "Quyonlar hayoti va afsonalari kitobi"
+            ],
+            "en": [
+              "Tales of Rabbit School and Golden Eggs"
+            ],
+            "ru": [
+              "Сказки школы зайцев"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/XN404z1z9Ko",
+              "videoTitle": "Quyonlar Maktabi Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/XN404z1z9Ko",
+              "videoTitle": "Quyonlar Maktabi Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/XN404z1z9Ko",
+              "videoTitle": "Quyonlar Maktabi Multfilmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Quyonlar maktabi",
+                "en": "Rabbit School Map",
+                "ru": "Карта школы зайцев"
+              },
+              "image": "https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Maktab binosi",
+                  "x": 40,
+                  "y": 45,
+                  "info": "Quyonlar tahsil oladigan maktab"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Quyonlar nimani yovvoyi tulkilardan himoya qilishadi?",
+              "en": "What do rabbits protect from foxes?",
+              "ru": "Что зайцы защищают от лис?"
+            },
+            "options": {
+              "uz": [
+                "Oltin Tuxumni",
+                "Sabzi bog'ini",
+                "Sehrli kitobni"
+              ],
+              "en": [
+                "The Golden Egg",
+                "Carrot garden",
+                "Magic book"
+              ],
+              "ru": [
+                "Золотое Яйцо",
+                "Морковный сад",
+                "Волшебную книгу"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "27",
+      "title": {
+        "uz": "Uch Bahodir",
+        "en": "Three Heroes",
+        "ru": "Три богатыря"
+      },
+      "author": "Xalq og'zaki afsonalari",
+      "genre": "Bolalar, Tarbiyaviy",
+      "cover": "https://images.unsplash.com/photo-1559650656-5d1d361ad10e?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Uchta jasur bahodirning birlashib, o'z yurtlarini yovuz kuchlardan qanday himoya qilganlari haqidagi qiziqarli doston.",
+        "en": "The adventure of three brave warriors who unite to save their homeland from various evil monsters.",
+        "ru": "Приключение трех отважных богатырей, объединившихся ради защиты родины."
+      },
+      "chapters": [
+        {
+          "id": "27-1",
+          "title": {
+            "uz": "1-bob: Bahodirlar birlashuvi",
+            "en": "Chapter 1: Union of Heroes",
+            "ru": "Глава 1: Объединение богатырей"
+          },
+          "content": {
+            "uz": "Yurtga dushman bostirib kelganida, uchta eng kuchli va jasur bahodir o'zaro kelishmovchiliklarni chetga surib birlashdilar. Ular o'zlarining aqli, do'stligi va ajoyib kuchi bilan yovuz ajdaho va dushman qo'shinlarini tor-mor qildilar.",
+            "en": "When danger arrived, three legendary warriors put differences aside and united to defeat the enemy.",
+            "ru": "Когда пришла беда, три легендарных богатыря объединились и разбили вражеские силы своей дружбой и силой."
+          },
+          "sources": {
+            "uz": [
+              "Xalq qahramonlik dostonlari"
+            ],
+            "en": [
+              "Homeland Hero Legends Collection"
+            ],
+            "ru": [
+              "Сборник богатырских былин"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/VLJNliKeW7w",
+              "videoTitle": "Uch Bahodir To'liq Multfilmi (O'zbek tilida - 55 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/VLJNliKeW7w",
+              "videoTitle": "Uch Bahodir To'liq Multfilmi (O'zbek tilida - 55 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/VLJNliKeW7w",
+              "videoTitle": "Uch Bahodir To'liq Multfilmi (O'zbek tilida - 55 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Bahodirlar chegarasi",
+                "en": "Heroes' Outpost Map",
+                "ru": "Карта богатырской заставы"
+              },
+              "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Chegara posti",
+                  "x": 50,
+                  "y": 60,
+                  "info": "Bahodirlar dushmanni kutib olgan joy"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Bahodirlar g'alaba qozonish uchun nimani ishlatdilar?",
+              "en": "What did the heroes use to win?",
+              "ru": "Что богатыри использовали для победы?"
+            },
+            "options": {
+              "uz": [
+                "Do'stlik va Birlikni",
+                "Sehrli tayoqchani",
+                "Yolg'iz jang qilishni"
+              ],
+              "en": [
+                "Friendship and Unity",
+                "Magic wand",
+                "Fighting alone"
+              ],
+              "ru": [
+                "Дружбу и Единство",
+                "Волшебную палочку",
+                "Одиночный бой"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "children"
+    },
+    {
+      "id": "28",
+      "title": {
+        "uz": "O'tkan kunlar",
+        "en": "Bygone Days",
+        "ru": "Минувшие дни"
+      },
+      "author": "Abdulla Qodiriy",
+      "genre": "Tarixiy, Klassika",
+      "cover": "https://images.unsplash.com/photo-1464746133101-a2c3f88e0dd9?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "O'zbek adabiyotining birinchi romani. Qo'qon xonligi davridagi tarixiy voqealar, xonliklararo nizolar va Otabek hamda Kumushning fojiali sevgi qissasi.",
+        "en": "The first novel of Uzbek literature. It depicts the historical events of the Kokand Khanate, internal conflicts, and the tragic love story of Otabek and Kumush.",
+        "ru": "Первый роман узбекской литературы. Описывает исторические события Кокандского ханства, внутренние раздоры и трагическую историю любви Отабека и Кумуш."
+      },
+      "chapters": [
+        {
+          "id": "28-1",
+          "title": {
+            "uz": "1-bob: Otabek va Kumush uchrashuvi",
+            "en": "Chapter 1: The Meeting of Otabek and Kumush",
+            "ru": "Глава 1: Встреча Отабека и Кумуш"
+          },
+          "content": {
+            "uz": "Marg'ilonga tijorat ishlari bilan kelgan toshkentlik Otabek tasodifan ariq bo'yida go'zal Kumushbibini ko'rib qoldi va bir ko'rishda oshiq bo'ldi. Ushbu buyuk sevgi yo'lidagi to'siqlar va ularning fojiali taqdiri o'zbek xalqining o'sha davrdagi ijtimoiy-siyosiy hayoti fonida yoritiladi.",
+            "en": "Otabek from Tashkent, visiting Margilan for trade, accidentally saw the beautiful Kumush by the stream and fell in love. Their tragic love unfolds against the backdrop of 19th-century Uzbek social and political life.",
+            "ru": "Отабек из Ташкента, прибывший в Маргилан по делам, случайно увидел у ручья красавицу Кумушбиби и влюбился с первого взгляда. Их трагическая любовь разворачивается на фоне узбекской жизни XIX века."
+          },
+          "sources": {
+            "uz": [
+              "O'tkan kunlar romani, Abdulla Qodiriy"
+            ],
+            "en": [
+              "Bygone Days, Abdulla Qodiri"
+            ],
+            "ru": [
+              "Роман Минувшие дни, Абдулла Кадыри"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/VRRPuUP-Pn8",
+              "videoTitle": "O'tgan kunlar - To'liq Badiiy Filmi (130 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/VRRPuUP-Pn8",
+              "videoTitle": "O'tgan kunlar - To'liq Badiiy Filmi (130 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/VRRPuUP-Pn8",
+              "videoTitle": "O'tgan kunlar - To'liq Badiiy Filmi (130 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Marg'ilon va Toshkent xaritasi",
+                "en": "Map of Margilan and Tashkent",
+                "ru": "Карта Маргилана и Ташкента"
+              },
+              "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Marg'ilon",
+                  "x": 65,
+                  "y": 50,
+                  "info": "Kumushbibining uyi joylashgan shahar"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Kumushbibi qaysi shaharda yashar edi?",
+              "en": "In which city did Kumushbibi live?",
+              "ru": "В каком городе жила Кумушбиби?"
+            },
+            "options": {
+              "uz": [
+                "Marg'ilonda",
+                "Toshkentda",
+                "Qo'qonda"
+              ],
+              "en": [
+                "In Margilan",
+                "In Tashkent",
+                "In Kokand"
+              ],
+              "ru": [
+                "В Маргилане",
+                [
+                  "В Ташкенте"
+                ],
+                "В Коканде"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "29",
+      "title": {
+        "uz": "Mehrobdan chayon",
+        "en": "Scorpion from the Altar",
+        "ru": "Скорпион из алтаря"
+      },
+      "author": "Abdulla Qodiriy",
+      "genre": "Tarixiy, Badiiy",
+      "cover": "https://images.unsplash.com/photo-1532012197267-da84d127e765?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Qo'qon xonligi davridagi saroy fitnalari, adolatsizliklar hamda Anvar va Ra'noning pokiza muhabbati hikoya qilinadi.",
+        "en": "A historical drama detailing the palace intrigues of the Kokand Khanate, and the pure love between Anvar and Ra'no.",
+        "ru": "Историческая драма, подробно описывающая дворцовые интриги Кокандского ханства и чистую любовь Анвара и Рано."
+      },
+      "chapters": [
+        {
+          "id": "29-1",
+          "title": {
+            "uz": "1-bob: Saroy fitnalari",
+            "en": "Chapter 1: Palace Intrigues",
+            "ru": "Глава 1: Дворцовые интриги"
+          },
+          "content": {
+            "uz": "Xonlik saroyidagi yovuz a'yonlar va munofiq ulamolar Otabek va Anvar kabi vatanparvar yigitlarga qarshi tuhmatlar uyushtirib, o'z maqsadlariga erishish yo'lida fitna urug'ini sochdilar. Bunga qaramay, muhabbat va adolat fitnalarni yengishga qodir ekanligi ko'rsatiladi.",
+            "en": "Corrupt palace officials and hypocrites plot against patriots like Anvar. Yet, love and justice stand strong against the schemes.",
+            "ru": "Продажные дворцовые чиновники плетут интриги против таких патриотов, как Анвар. Однако любовь и справедливость противостоят заговорам."
+          },
+          "sources": {
+            "uz": [
+              "Mehrobdan chayon, Abdulla Qodiriy"
+            ],
+            "en": [
+              "Scorpion from the Altar, Abdulla Qodiri"
+            ],
+            "ru": [
+              "Скорпион из алтаря, Абдулла Кадыри"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/50i5AJppZig",
+              "videoTitle": "Mehrobdan chayon - Tarixiy Badiiy Filmi (70 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/50i5AJppZig",
+              "videoTitle": "Mehrobdan chayon - Tarixiy Badiiy Filmi (70 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/50i5AJppZig",
+              "videoTitle": "Mehrobdan chayon - Tarixiy Badiiy Filmi (70 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Qo'qon o'rdasi",
+                "en": "Kokand Horde Map",
+                "ru": "Карта Кокандской орды"
+              },
+              "image": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Xon O'rdasi",
+                  "x": 45,
+                  "y": 40,
+                  "info": "Xon saroyi va fitnalar markazi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Romandagi bosh qahramon yigitning ismi kim?",
+              "en": "What is the name of the main male character in the novel?",
+              "ru": "Как зовут главного героя романа?"
+            },
+            "options": {
+              "uz": [
+                "Anvar",
+                "Otabek",
+                "Solih maxdum"
+              ],
+              "en": [
+                "Anvar",
+                [
+                  "Otabek"
+                ],
+                "Solih Makhdum"
+              ],
+              "ru": [
+                "Анвар",
+                "Отабек",
+                "Солих махдум"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "30",
+      "title": {
+        "uz": "Alisher Navoiy",
+        "en": "Alisher Navoi",
+        "ru": "Алишер Навои"
+      },
+      "author": "Oybek (Muso Toshmuhammad o'g'li)",
+      "genre": "Tarixiy, Klassika",
+      "cover": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Buyuk o'zbek shoiri, mutafakkiri va davlat arbobi Alisher Navoiyning hayoti, ijodi va Hirot saroyidagi faoliyati yoritilgan tarixiy asar.",
+        "en": "A historical novel detailing the life, poetry, and political career of the great Uzbek poet and statesman Alisher Navoi in Herat.",
+        "ru": "Исторический роман, подробно описывающий жизнь, поэзию и политическую карьеру великого узбекского поэта Алишера Навои в Герате."
+      },
+      "chapters": [
+        {
+          "id": "30-1",
+          "title": {
+            "uz": "1-bob: Hirotning oltin davri",
+            "en": "Chapter 1: The Golden Age of Herat",
+            "ru": "Глава 1: Золотой век Герата"
+          },
+          "content": {
+            "uz": "Alisher Navoiy va Husayn Boyqaroning do'stligi hamda Temuriylar saltanatidagi ilm-fan, madaniyat rivoji. Navoiyning xalq farovonligi, maktablar va madrasalar qurish yo'lidagi buyuk xizmatlari tasvirlanadi.",
+            "en": "The friendship of Alisher Navoi and Husayn Bayqara, and the flourishment of science and culture in the Timurid Empire under Navoi's patronage.",
+            "ru": "Дружба Алишера Навои и Хусейна Байкары, а также расцвет науки и культуры в Империи Тимуридов под покровительством Навои."
+          },
+          "sources": {
+            "uz": [
+              "Alisher Navoiy romani, Oybek"
+            ],
+            "en": [
+              "Alisher Navoi Biography, Oybek"
+            ],
+            "ru": [
+              "Роман Алишер Навои, Ойбек"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/4A1G5xkkKws",
+              "videoTitle": "Alisher Navoiy - Klassik Badiiy Film (90 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/4A1G5xkkKws",
+              "videoTitle": "Alisher Navoiy - Klassik Badiiy Film (90 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/4A1G5xkkKws",
+              "videoTitle": "Alisher Navoiy - Klassik Badiiy Film (90 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Temuriylar Xuroson Saltanati",
+                "en": "Timurid Khorasan Empire Map",
+                "ru": "Карта Империи Тимуридов"
+              },
+              "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Hirot shahri",
+                  "x": 55,
+                  "y": 60,
+                  "info": "Temuriylar madaniy markazi va Navoiy ijodxonasi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Alisher Navoiyning yaqin do'sti bo'lgan Hirot hukmdori kim edi?",
+              "en": "Who was the ruler of Herat and a close friend of Alisher Navoi?",
+              "ru": "Кто был правителем Герата и близким другом Алишера Навои?"
+            },
+            "options": {
+              "uz": [
+                "Husayn Boyqaro",
+                "Zahiriddin Bobur",
+                "Ulug'bek"
+              ],
+              "en": [
+                "Husayn Bayqara",
+                "Zahiriddin Babur",
+                "Ulugh Beg"
+              ],
+              "ru": [
+                "Хусейн Байкара",
+                "Захириддин Бабур",
+                "Улугбек"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "31",
+      "title": {
+        "uz": "Tohir va Zuhra",
+        "en": "Tahir and Zuhra",
+        "ru": "Тахир и Зухра"
+      },
+      "author": "Xalq og'zaki dostoni",
+      "genre": "Tarixiy, Drama",
+      "cover": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Sinfiy tengsizlik, saroy to'siqlari va ular o'rtasidagi go'zal, ammo fojiali sevgini tarannum etgan sharqona Romeo va Juletta doston-kino.",
+        "en": "An oriental Romeo and Juliet epic describing the tragic love between Tohir, a commoner, and Zuhra, a princess, separated by social barriers.",
+        "ru": "Восточная легенда о Ромео и Джульетте, описывающая трагическую любовь между простолюдином Тахиром и принцессой Зухрой."
+      },
+      "chapters": [
+        {
+          "id": "31-1",
+          "title": {
+            "uz": "1-bob: Muhabbat va fojia",
+            "en": "Chapter 1: Love and Tragedy",
+            "ru": "Глава 1: Любовь и трагедия"
+          },
+          "content": {
+            "uz": "Tohir va Zuhra go'dakliklaridan birga o'sdilar. Ammo Zuhra malika, Tohir esa oddiy askar o'g'li bo'lganligi sababli, taxt vorislari va yovuz a'yonlar ularning birlashishiga yo'l bermadilar. Tohir sandiqqa solinib daryoga oqizib yuborildi.",
+            "en": "Tohir and Zuhra grew up together, but royalty separated them. Tohir was thrown into the river in a locked chest by order of the king's general.",
+            "ru": "Тахир и Зухра выросли вместе, но королевский закон разлучил их. По приказу визиря Тахира бросили в сундуке в реку."
+          },
+          "sources": {
+            "uz": [
+              "Tohir va Zuhra xalq dostoni"
+            ],
+            "en": [
+              "Tahir and Zuhra Folk Legend"
+            ],
+            "ru": [
+              "Народный эпос Тахир и Зухра"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/k8gpPDRfSKI",
+              "videoTitle": "Tohir va Zuhra - Klassik Badiiy Film (80 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/k8gpPDRfSKI",
+              "videoTitle": "Tohir va Zuhra - Klassik Badiiy Film (80 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/k8gpPDRfSKI",
+              "videoTitle": "Tohir va Zuhra - Klassik Badiiy Film (80 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Xonlik daryosi xaritasi",
+                "en": "River of the Khanate Map",
+                "ru": "Карта реки Ханства"
+              },
+              "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Daryo bo'yi",
+                  "x": 30,
+                  "y": 70,
+                  "info": "Tohir oqizib yuborilgan daryo"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Tohirni qayerga solib oqizib yuborishgan edi?",
+              "en": "Where was Tohir put before being cast away in the water?",
+              "ru": "Куда положили Тахира перед тем, как пустить по воде?"
+            },
+            "options": {
+              "uz": [
+                "Sandiqqa",
+                "Kechik qayiqqa",
+                "Qopga"
+              ],
+              "en": [
+                "In a chest",
+                "In a small boat",
+                "In a sack"
+              ],
+              "ru": [
+                "В сундук",
+                "В лодку",
+                "В мешок"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "32",
+      "title": {
+        "uz": "Amir Temur (Sohibqiron)",
+        "en": "Amir Temur (Tamerlane)",
+        "ru": "Амир Темур (Тамерлан)"
+      },
+      "author": "Temur tuzuklari",
+      "genre": "Tarixiy, Harbiy",
+      "cover": "https://images.unsplash.com/photo-1559650656-5d1d361ad10e?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Buyuk sohibqiron Amir Temurning saltanat barpo etishi, harbiy yurishlari va adolatli boshqaruvi haqidagi tarixiy film-kitob.",
+        "en": "The historical biography of the great conqueror Amir Temur, his military strategies, and state laws (Tuzuks).",
+        "ru": "Историческая биография великого завоевателя Амира Темура, его военные стратегии и законы (Уложения)."
+      },
+      "chapters": [
+        {
+          "id": "32-1",
+          "title": {
+            "uz": "1-bob: Saltanatning barpo etilishi",
+            "en": "Chapter 1: The Rise of the Empire",
+            "ru": "Глава 1: Создание империи"
+          },
+          "content": {
+            "uz": "Amir Temurning yoshlik yillari, Movarounnahrni parokandalikdan qutqarib, tarqoq bekliklarni yagona bayroq ostida birlashtirishi va buyuk saltanatga asos solishi yoritiladi. 'Kuch adolatdadir' shiori ostidagi qonunlar to'plami keng sharhlanadi.",
+            "en": "Amir Temur's youth, his unification of divided territories of Mawarannahr, and establishment of a powerful state based on justice and law.",
+            "ru": "Молодость Амира Темура, спасение Мавераннахра от разрухи, объединение разрозненных земель и создание мощного государства."
+          },
+          "sources": {
+            "uz": [
+              "Temur tuzuklari, Amir Temur",
+              "Zafarnoma, Sharafuddin Ali Yazdiy"
+            ],
+            "en": [
+              "Malfuzat-i Timuri (Memoirs)",
+              "Zafarnama, Sharaf ad-Din Ali Yazdi"
+            ],
+            "ru": [
+              "Уложения Темура",
+              "Зафарнаме, Шараф ад-Дин Али Йезди"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/bePeBWyziL4",
+              "videoTitle": "Amir Temur - Tarixiy Jangari Badiiy Film (90 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/bePeBWyziL4",
+              "videoTitle": "Amir Temur - Tarixiy Jangari Badiiy Film (90 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/bePeBWyziL4",
+              "videoTitle": "Amir Temur - Tarixiy Jangari Badiiy Film (90 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Temuriylar Saltanati poytaxti",
+                "en": "Capital of the Timurid Empire",
+                "ru": "Столица Империи Тимуридов"
+              },
+              "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Samarqand shahri",
+                  "x": 48,
+                  "y": 45,
+                  "info": "Buyuk poytaxt va saltanat qalbi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Amir Temur saltanatining shiori qaysi edi?",
+              "en": "What was the official motto of Amir Temur's state?",
+              "ru": "Каков был официальный девиз государства Амира Темура?"
+            },
+            "options": {
+              "uz": [
+                "Kuch adolatdadir",
+                "Birlik - qudratdir",
+                "Vatan taraqqiyoti"
+              ],
+              "en": [
+                "Strength is in Justice",
+                "Unity is Power",
+                "Development of Homeland"
+              ],
+              "ru": [
+                "Сила в справедливости",
+                "Единство — сила",
+                "Прогресс Родины"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "33",
+      "title": {
+        "uz": "Alpomish (Qahramonlik Dostoni)",
+        "en": "Alpamysh (Heroic Epic)",
+        "ru": "Алпамыш (Героический эпос)"
+      },
+      "author": "Fozil Yo'ldosh o'g'li",
+      "genre": "Tarixiy, Afsona",
+      "cover": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "O'zbek xalqining eng qadimiy qahramonlik dostoni. Jasur Alpomish va uning vafodor yori Barchinoyning sarguzashtlari.",
+        "en": "The ancient heroic epic of the Uzbek people, describing the struggles and courage of Alpamysh and his loyal wife Barchin.",
+        "ru": "Древний героический эпос узбекского народа, описывающий борьбу и мужество Алпамыша и его верной жены Барчин."
+      },
+      "chapters": [
+        {
+          "id": "33-1",
+          "title": {
+            "uz": "1-bob: Alpomish jasorati",
+            "en": "Chapter 1: The Courage of Alpamysh",
+            "ru": "Глава 1: Подвиг Алпамыша"
+          },
+          "content": {
+            "uz": "Qong'irot eli bahodiri Alpomish o'z elini yovuz dushmanlar asoratidan ozod qilish va go'zal Barchinoyning shartlarini bajarish uchun Qalmoq eliga yo'l oldi. U yerda turli sinovlardan muvaffaqiyatli o'tdi.",
+            "en": "Alpamysh goes to the Kalmyk land to rescue his family and fulfill Barchin's difficult trials, demonstrating extreme strength.",
+            "ru": "Алпамыш отправляется в калмыцкие земли, чтобы спасти свой народ и выполнить сложные условия Барчин, проявляя великую силу."
+          },
+          "sources": {
+            "uz": [
+              "Alpomish dostoni, O'zbek xalq og'zaki ijodi"
+            ],
+            "en": [
+              "Alpamysh Epic, Central Asian Classics"
+            ],
+            "ru": [
+              "Эпос Алпамыш, Народное творчество"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/pFpjdpEm2Tc",
+              "videoTitle": "Alpomish - Tarixiy Qahramonlik Filmi (90 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/pFpjdpEm2Tc",
+              "videoTitle": "Alpomish - Tarixiy Qahramonlik Filmi (90 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/pFpjdpEm2Tc",
+              "videoTitle": "Alpomish - Tarixiy Qahramonlik Filmi (90 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Qong'irot elati hududi",
+                "en": "Qongirot Clan Territory Map",
+                "ru": "Карта земель рода Конграт"
+              },
+              "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Boysun tog'lari",
+                  "x": 35,
+                  "y": 60,
+                  "info": "Alpomish vatani va oilasining qarorgohi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Alpomishning vafodor rafiqasining ismi nima edi?",
+              "en": "What was the name of Alpamysh's loyal wife?",
+              "ru": "Как звали верную жену Алпамыша?"
+            },
+            "options": {
+              "uz": [
+                "Barchinoy",
+                "Kumush",
+                "Ra'no"
+              ],
+              "en": [
+                "Barchin",
+                "Kumush",
+                "Ra'no"
+              ],
+              "ru": [
+                "Барчиной",
+                "Кумуш",
+                "Рано"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "34",
+      "title": {
+        "uz": "Bahodir Yalangto'sh",
+        "en": "Bahodir Yalangtush",
+        "ru": "Бахадыр Ялангтуш"
+      },
+      "author": "Samarqand Tarixi",
+      "genre": "Tarixiy, Hujjatli",
+      "cover": "https://images.unsplash.com/photo-1580835239846-5bb9ce03c8c3?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Samarqand hokimi, buyuk sarkarda va Registon maydonidagi Sherdor hamda Tillakori madrasalarini barpo etgan shaxs haqidagi tarixiy kino-roman.",
+        "en": "The story of Samarqand's ruler and commander Bahodir Yalangtush, who built the Sherdor and Tillakori madrasahs on Registan.",
+        "ru": "История правителя Самарканда, великого полководца Бахадыра Ялангтуша, построившего медресе Шердор и Тилля-Кори."
+      },
+      "chapters": [
+        {
+          "id": "34-1",
+          "title": {
+            "uz": "1-bob: Registon me'morchiligi",
+            "en": "Chapter 1: Architecture of Registan",
+            "ru": "Глава 1: Архитектура Регистана"
+          },
+          "content": {
+            "uz": "Bahodir Yalangto'sh Samarqand shahrini qayta tiklash, uning nufuzini yuksaltirish maqsadida Registon maydonida buyuk qurilish ishlarini boshladi. Uning Sherdor va Tillakori madrasalarini barpo etish yo'lidagi qarorlari tarix zarvaraqlariga muhrlandi.",
+            "en": "Bahodir Yalangtush initiated construction on Registan to build Sherdor and Tillakori, raising the status of Samarqand.",
+            "ru": "Бахадыр Ялангтуш инициировал великое строительство на площади Регистан, возведя медресе Шердор и Тилля-Кори."
+          },
+          "sources": {
+            "uz": [
+              "Samarqand va Ashtarxoniylar tarixi, Davlat arxivi"
+            ],
+            "en": [
+              "History of Samarqand and Ashtarkhanids, State Archive"
+            ],
+            "ru": [
+              "История Самарканда и Аштарханидов, Государственный архив"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/lCQmbZaLYC8",
+              "videoTitle": "Bahodir Yalangto'sh - Tarixiy Badiiy Film (95 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/lCQmbZaLYC8",
+              "videoTitle": "Bahodir Yalangto'sh - Tarixiy Badiiy Film (95 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/lCQmbZaLYC8",
+              "videoTitle": "Bahodir Yalangto'sh - Tarixiy Badiiy Film (95 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Registan maydoni xaritasi",
+                "en": "Registan Square Map",
+                "ru": "Карта площади Регистан"
+              },
+              "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Sherdor Madrasasi",
+                  "x": 65,
+                  "y": 45,
+                  "info": "Bahodir Yalangtush buyrug'i bilan solingan afsonaviy madrasa"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Yalangto'sh Bahodir qaysi shaharning hokimi bo'lgan?",
+              "en": "Of which city was Yalangtush Bahodir the ruler?",
+              "ru": "Правителем какого города был Ялангтуш Бахадыр?"
+            },
+            "options": {
+              "uz": [
+                "Samarqand",
+                "Buxoro",
+                "Xiva"
+              ],
+              "en": [
+                "Samarkand",
+                "Bukhara",
+                "Khiva"
+              ],
+              "ru": [
+                "Самарканд",
+                "Бухара",
+                "Хива"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "35",
+      "title": {
+        "uz": "Suyunchi",
+        "en": "Suyunchi (Good News)",
+        "ru": "Суюнчи (Бабушка-генерал)"
+      },
+      "author": "Rixsivoy Muhammadjonov",
+      "genre": "Badiiy, Retro",
+      "cover": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "O'zbek xalqining retro komediya va dramasi. Oilada milliy urf-odatlar, an'analarni saqlab qolishga intilgan Anzurat buvi sarguzashtlari.",
+        "en": "The famous Uzbek retro comedy-drama about Grandma Anzurat, a strong-willed matriarch trying to protect traditions in a modernizing village.",
+        "ru": "Известная узбекская ретро-комедия о бабушке Анзурат, волевой матриархе, пытающейся сохранить традиции в деревне."
+      },
+      "chapters": [
+        {
+          "id": "35-1",
+          "title": {
+            "uz": "1-bob: Anzurat buvi va qishloq hayoti",
+            "en": "Chapter 1: Grandma Anzurat and Village Life",
+            "ru": "Глава 1: Бабушка Анзурат и сельская жизнь"
+          },
+          "content": {
+            "uz": "Anzurat buvi butun qishloqni o'zining qat'iy intizomi bilan boshqarar edi. U yoshlarning tarbiyasi, urf-odatlarimiz va qadriyatlarimizning saqlanishiga jon kuydirardi. Uning xatti-harakatlari qishloq ahlida ham hurmat, ham kulgi uyg'otardi.",
+            "en": "Grandma Anzurat ruled the village with strict discipline, ensuring youths followed old values, creating funny situations.",
+            "ru": "Бабушка Анзурат управляла всей деревней со строгой дисциплиной, следя за воспитанием молодежи и традициями."
+          },
+          "sources": {
+            "uz": [
+              "Suyunchi badiiy filmi ssenariysi"
+            ],
+            "en": [
+              "Suyunchi Retro Movie Screenplay"
+            ],
+            "ru": [
+              "Сценарий фильма Суюнчи"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/uiL7efSDc4o",
+              "videoTitle": "Suyunchi - Retro Klassik Badiiy Filmi (80 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/uiL7efSDc4o",
+              "videoTitle": "Suyunchi - Retro Klassik Badiiy Filmi (80 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/uiL7efSDc4o",
+              "videoTitle": "Suyunchi - Retro Klassik Badiiy Filmi (80 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Qishloq hududi xaritasi",
+                "en": "Village Map",
+                "ru": "Карта деревни"
+              },
+              "image": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Anzurat buvi hovlisi",
+                  "x": 40,
+                  "y": 55,
+                  "info": "Qishloq markazidagi Anzurat buvi yashaydigan shinam xonadon"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Bosh qahramon bo'lgan buvining ismi nima edi?",
+              "en": "What was the grandmother's name in the movie?",
+              "ru": "Как звали бабушку в фильме?"
+            },
+            "options": {
+              "uz": [
+                "Anzurat buvi",
+                "Oymomo",
+                "Tursunoy"
+              ],
+              "en": [
+                "Grandma Anzurat",
+                "Oymomo",
+                "Tursunoy"
+              ],
+              "ru": [
+                "Бабушка Анзурат",
+                "Оймомо",
+                "Турсуной"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      },
+      "category": "adults"
+    },
+    {
+      "id": "36",
+      "category": "history",
+      "title": {
+        "uz": "Abu Ali Ibn Sino",
+        "en": "Avicenna",
+        "ru": "Абу Али Ибн Сина"
+      },
+      "author": "Tarixiy Hujjatlar",
+      "genre": "Tarixiy, Tibbiyot",
+      "cover": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "G'arbda Avicenna nomi bilan mashhur bo'lgan buyuk tabib, mutafakkir va faylasuf Abu Ali ibn Sinoning hayoti, tibbiyot ilmidagi kashfiyotlari va boy merosi.",
+        "en": "The life, medical breakthroughs, and philosophical legacy of Abu Ali Ibn Sino, known in the West as Avicenna.",
+        "ru": "Жизнь, медицинские открытия и философское наследие Абу Али Ибн Сины, известного на Западе как Авиценна."
+      },
+      "chapters": [
+        {
+          "id": "36-1",
+          "title": {
+            "uz": "1-bob: Tib qonunlari",
+            "en": "Chapter 1: The Canon of Medicine",
+            "ru": "Глава 1: Канон врачебной науки"
+          },
+          "content": {
+            "uz": "Ibn Sino o'zining eng mashhur asari 'Al-Qonun fit-tib' (Tib qonunlari) kitobini yozdi. Ushbu asar yuzlab yillar davomida Yevropa universitetlarida asosiy darslik sifatida o'qitildi. U ko'plab kasalliklarni aniqlash, gigiyena va farmakologiya asoslarini yaratdi.",
+            "en": "Ibn Sino authored 'The Canon of Medicine', which remained the primary medical textbook in European universities for centuries. He laid foundations for diagnosis, hygiene, and pharmacology.",
+            "ru": "Ибн Сина написал 'Канон врачебной науки', который веками оставался основным учебником по медицине в университетах Европы. Он заложил основы диагностики, гигиены и фармакологии."
+          },
+          "sources": {
+            "uz": [
+              "Al-Qonun fit-tib, Ibn Sino",
+              "Islom Ulamolari ensiklopediyasi"
+            ],
+            "en": [
+              "The Canon of Medicine, Avicenna",
+              "Encyclopedia of Islamic Scholars"
+            ],
+            "ru": [
+              "Канон врачебной науки, Ибн Сина",
+              "Энциклопедия исламских ученых"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/Q0Yhu7dkNro",
+              "videoTitle": "Abu Ali Ibn Sino - Hujjatli Filmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/Q0Yhu7dkNro",
+              "videoTitle": "Abu Ali Ibn Sino - Hujjatli Filmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/Q0Yhu7dkNro",
+              "videoTitle": "Abu Ali Ibn Sino - Hujjatli Filmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Buxoro va Afshona",
+                "en": "Bukhara and Afshona Map",
+                "ru": "Карта Бухары и Афшоны"
+              },
+              "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Afshona qishlog'i",
+                  "x": 45,
+                  "y": 40,
+                  "info": "Ibn Sino tug'ilgan qadimiy qishloq"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Ibn Sinoning dunyoga eng mashhur tibbiy asari qaysi?",
+              "en": "What is Avicenna's most famous medical book?",
+              "ru": "Каков самый известный медицинский труд Ибн Сины?"
+            },
+            "options": {
+              "uz": [
+                "Tib qonunlari",
+                "Kitob ash-Shifo",
+                "Astronomiya asoslari"
+              ],
+              "en": [
+                "The Canon of Medicine",
+                "Book of Healing",
+                "Principles of Astronomy"
+              ],
+              "ru": [
+                "Канон врачебной науки",
+                "Книга исцеления",
+                "Основы астрономии"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "category": "history",
+      "title": {
+        "uz": "Mirzo Ulug'bek",
+        "en": "Mirzo Ulugh Beg",
+        "ru": "Мирзо Улугбек"
+      },
+      "author": "Temuriylar Tarixi",
+      "genre": "Tarixiy, Astronomiya",
+      "cover": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Amir Temurning nabirasi, buyuk hukmdor, astronom va matematik Mirzo Ulug'bek hayoti hamda uning Samarqanddagi mashhur rasadxonasi tarixi.",
+        "en": "The biography of the great astronomer, mathematician, and ruler Mirzo Ulugh Beg, and the history of his observatory in Samarkand.",
+        "ru": "Биография великого астронома, математика и правителя Мирзо Улугбека, а также история его обсерватории в Самарканде."
+      },
+      "chapters": [
+        {
+          "id": "37-1",
+          "title": {
+            "uz": "1-bob: Yulduzlar ilmi",
+            "en": "Chapter 1: The Science of Stars",
+            "ru": "Глава 1: Наука о звездах"
+          },
+          "content": {
+            "uz": "Mirzo Ulug'bek Samarqandda buyuk rasadxona va madrasa barpo etdi. U 1018 ta yulduzning aniq koordinatalarini o'z ichiga olgan 'Ziji jadidi Ko'ragoniy' (Ulug'bek yulduzlar jadvali) asarini yaratdi. Bu jadval o'zining aniqligi bilan butun jahon olimlarini hayratda qoldirdi.",
+            "en": "Mirzo Ulugh Beg built a magnificent observatory in Samarkand and compiled his famous star catalogue 'Zij-i Sultani', detailing coordinates of 1018 stars with extreme precision.",
+            "ru": "Мирзо Улугбек построил великую обсерваторию в Самарканде и составил свой знаменитый звездный каталог 'Зидж-и Султани', содержащий точные координаты 1018 звезд."
+          },
+          "sources": {
+            "uz": [
+              "Ziji Ko'ragoniy, Mirzo Ulug'bek",
+              "Temuriylar davri solnomalari"
+            ],
+            "en": [
+              "Zij-i Sultani, Ulugh Beg",
+              "Timurid Era Chronicles"
+            ],
+            "ru": [
+              "Зидж-и Султани, Улугбек",
+              "Хроники эпохи Тимуридов"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/5u2MGr31XW4",
+              "videoTitle": "Mirzo Ulug'bek - Osmon toqiga qoyilgan narvon (O'zbek tilida - 55 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/5u2MGr31XW4",
+              "videoTitle": "Mirzo Ulug'bek - Osmon toqiga qoyilgan narvon (O'zbek tilida - 55 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/5u2MGr31XW4",
+              "videoTitle": "Mirzo Ulug'bek - Osmon toqiga qoyilgan narvon (O'zbek tilida - 55 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Ulug'bek rasadxonasi xaritasi",
+                "en": "Ulugh Beg Observatory Map",
+                "ru": "Карта обсерватории Улугбека"
+              },
+              "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Rasadxona sekstanti",
+                  "x": 50,
+                  "y": 50,
+                  "info": "Yulduzlar balandligini o'lchovchi ulkan sekstant qurilmasi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Ulug'bek rasadxonasida nechta yulduzning aniq joylashuvi o'rganilgan?",
+              "en": "How many stars were mapped in Ulugh Beg's observatory?",
+              "ru": "Сколько звезд было нанесено на карту в обсерватории Улугбека?"
+            },
+            "options": {
+              "uz": [
+                "1018 ta",
+                "500 ta",
+                "2000 ta"
+              ],
+              "en": [
+                "1018 stars",
+                "500 stars",
+                "2000 stars"
+              ],
+              "ru": [
+                "1018 звезд",
+                "500 звезд",
+                "2000 звезд"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "38",
+      "category": "history",
+      "title": {
+        "uz": "Al-Xorazmiy (Algebra otasi)",
+        "en": "Al-Khwarizmi",
+        "ru": "Аль-Хорезми"
+      },
+      "author": "Matematika Tarixi",
+      "genre": "Tarixiy, Ilmiy",
+      "cover": "https://images.unsplash.com/photo-1509228468518-180dd4864904?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Algebra fanining asoschisi, algoritm tushunchasini yaratgan buyuk matematik va astronom Muhammad ibn Muso al-Xorazmiy hayoti.",
+        "en": "The biography of Muhammad ibn Musa al-Khwarizmi, the father of algebra, whose name gave rise to the term algorithm.",
+        "ru": "Биография Мухаммада ибн Мусы аль-Хорезми, отца алгебры, имя которого дало начало термину алгоритм."
+      },
+      "chapters": [
+        {
+          "id": "38-1",
+          "title": {
+            "uz": "1-bob: Al-Jabr va Algoritm",
+            "en": "Chapter 1: Al-Jabr and Algorithm",
+            "ru": "Глава 1: Аль-Джебр и Алгоритм"
+          },
+          "content": {
+            "uz": "Al-Xorazmiy Bag'doddagi 'Baytul hikmat' (Donishmandlik uyi) kutubxonasiga rahbarlik qildi. U o'zining 'Al-Kitob al-muxtasar fi hisob al-jabr val-muqobala' asari orqali algebra faniga asos soldi. Uning lotinlashtirilgan nomi 'Algoritmi' so'zidan algoritm tushunchasi kelib chiqqan.",
+            "en": "Al-Khwarizmi led the House of Wisdom in Baghdad. His book 'Al-Jabr' laid foundations for algebra, and his Latinized name 'Algoritmi' birthed the term algorithm.",
+            "ru": "Аль-Хорезми руководил Домом Мудрости в Багдаде. Его книга 'Аль-Джебр' заложила основы алгебры, а латинизированное имя 'Algoritmi' дало жизнь термину алгоритм."
+          },
+          "sources": {
+            "uz": [
+              "Al-Jabr val-Muqobala, Al-Xorazmiy",
+              "Faylasuflar ensiklopediyasi"
+            ],
+            "en": [
+              "Al-Jabr, Al-Khwarizmi",
+              "History of Mathematics"
+            ],
+            "ru": [
+              "Аль-Джебр, Аль-Хорезми",
+              "История математики"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/HO-r634Sq98",
+              "videoTitle": "Al-Xorazmiy Hayoti va Merosi (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/HO-r634Sq98",
+              "videoTitle": "Al-Xorazmiy Hayoti va Merosi (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/HO-r634Sq98",
+              "videoTitle": "Al-Xorazmiy Hayoti va Merosi (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Bag'dod Baytul Hikmati",
+                "en": "House of Wisdom Baghdad Map",
+                "ru": "Карта Дома Мудрости Багдада"
+              },
+              "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Baytul Hikmat",
+                  "x": 50,
+                  "y": 45,
+                  "info": "Olimlar ilmiy tadqiqotlar olib borgan buyuk akademiya"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "'Algoritm' tushunchasi Al-Xorazmiyning qaysi nomidan kelib chiqqan?",
+              "en": "From which name of Al-Khwarizmi does the word 'Algorithm' originate?",
+              "ru": "От какого имени Аль-Хорезми произошло слово 'Алгоритм'?"
+            },
+            "options": {
+              "uz": [
+                "Lotincha 'Algoritmi' nomidan",
+                "Al-Jabr nomidan",
+                "Xorazmlik laqabidan"
+              ],
+              "en": [
+                "From Latin 'Algoritmi'",
+                "From Al-Jabr",
+                "From Khwarazmian nickname"
+              ],
+              "ru": [
+                "От латинского 'Algoritmi'",
+                "От Аль-Джебр",
+                "От Хорезмийского прозвища"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "39",
+      "category": "history",
+      "title": {
+        "uz": "Imom al-Buxoriy",
+        "en": "Imam al-Bukhari",
+        "ru": "Имам аль-Бухари"
+      },
+      "author": "Hadisshunoslik Tarixi",
+      "genre": "Tarixiy, Islomiy",
+      "cover": "https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Hadis ilmining sultoni, 'Sahih al-Buxoriy' asari orqali islom olamida eng ishonchli manba yaratgan ulug' olim Imom al-Buxoriy hayoti.",
+        "en": "The life of Imam al-Bukhari, the supreme scholar of Hadith, who compiled the most authentic collection of Islamic traditions.",
+        "ru": "Жизнь Имама аль-Бухари, величайшего ученого хадисов, составившего самый достоверный сборник исламских преданий."
+      },
+      "chapters": [
+        {
+          "id": "39-1",
+          "title": {
+            "uz": "1-bob: Sahih to'plam sari",
+            "en": "Chapter 1: Compiling the Sahih",
+            "ru": "Глава 1: Составление Сахиха"
+          },
+          "content": {
+            "uz": "Imom al-Buxoriy 600 mingdan ortiq hadisni o'rganib, ulardan eng ishonchli va sahih deb topilgan 7 mingdan ortig'ini o'zining 'Al-Jome' as-sahih' (Sahihul Buxoriy) asariga kiritdi. U hadislarning to'g'riligini aniqlashning qat'iy tizimini yaratdi.",
+            "en": "Imam al-Bukhari reviewed over 600,000 hadiths, selecting over 7,000 authentic ones for his 'Sahih Al-Bukhari', employing a rigorous verification system.",
+            "ru": "Имам аль-Бухари проверил более 600 000 хадисов, отобрав более 7 000 достоверных для своего 'Сахиха', применив строгую систему проверки."
+          },
+          "sources": {
+            "uz": [
+              "Sahihul Buxoriy, Imom al-Buxoriy",
+              "Tarixi Buxoro"
+            ],
+            "en": [
+              "Sahih al-Bukhari",
+              "History of Bukhara"
+            ],
+            "ru": [
+              "Сахих аль-Бухари",
+              "История Бухары"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/6dJyWhhxyBs",
+              "videoTitle": "Imom Buxoriy - Hayoti va Tarjimai holi (O'zbek tilida - 50 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/6dJyWhhxyBs",
+              "videoTitle": "Imom Buxoriy - Hayoti va Tarjimai holi (O'zbek tilida - 50 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/6dJyWhhxyBs",
+              "videoTitle": "Imom Buxoriy - Hayoti va Tarjimai holi (O'zbek tilida - 50 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Buxoro va Samarqand ziyoratgohlari",
+                "en": "Shrines of Bukhara and Samarkand",
+                "ru": "Святыни Бухары и Самарканда"
+              },
+              "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Burtalik qishlog'i (Samarqand)",
+                  "x": 60,
+                  "y": 50,
+                  "info": "Imom Buxoriy dafn etilgan muqaddas hudud"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Imom al-Buxoriyning eng mashhur hadislar to'plami qanday nomlanadi?",
+              "en": "What is the name of Imam al-Bukhari's famous Hadith collection?",
+              "ru": "Как называется знаменитый сборник хадисов Имама аль-Бухари?"
+            },
+            "options": {
+              "uz": [
+                "Sahihul Buxoriy",
+                "Al-Muvatto",
+                "Sunani Termiziy"
+              ],
+              "en": [
+                "Sahih Al-Bukhari",
+                "Al-Muwatta",
+                "Sunan al-Tirmidhi"
+              ],
+              "ru": [
+                "Сахих аль-Бухари",
+                "Аль-Муватта",
+                "Сунан ат-Тирмизи"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "40",
+      "category": "history",
+      "title": {
+        "uz": "Xorazmshohlar Saltanati",
+        "en": "Khwarazmian Empire",
+        "ru": "Хорезмшахи"
+      },
+      "author": "Markaziy Osiyo Tarixi",
+      "genre": "Tarixiy, Urush",
+      "cover": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Markaziy Osiyodagi eng yirik davlatlardan biri – Xorazmshohlar saltanatining yuksalishi, uning poytaxti Ko'hna Urganch va Jaloliddin Manguberdining mo'g'ullarga qarshi kurashi.",
+        "en": "The history of the Khwarazmian Empire, its capital Gurganj, and the heroic battles of Jaloliddin Manguberdi against Mongols.",
+        "ru": "История Хорезмшахов, столицы Гургандж и героической борьбы Джалолиддина Мангуберди против монголов."
+      },
+      "chapters": [
+        {
+          "id": "40-1",
+          "title": {
+            "uz": "1-bob: Imperiya yuksalishi",
+            "en": "Chapter 1: The Rise of the Empire",
+            "ru": "Глава 1: Восхождение империи"
+          },
+          "content": {
+            "uz": "Xorazmshohlar imperiyasi Markaziy Osiyo, Eron va Afg'oniston hududlarini o'z ichiga olgan ulkan qudratga aylandi. Uning ilm-fan markazlari, savdo karvonlari va kuchli armiyasi mo'g'ullar bosqini arafasida eng yuqori darajada edi.",
+            "en": "The Khwarazmian Empire expanded across Central Asia, Iran, and Afghanistan. Its scientific hubs, trade routes, and military peaked before the Mongol invasion.",
+            "ru": "Хорезмская империя охватывала территории Средней Азии, Ирана и Афганистана. Её научные центры, торговые пути и армия процветали накануне монгольского нашествия."
+          },
+          "sources": {
+            "uz": [
+              "Xorazmshohlar tarixi, Shihobuddin an-Nasaviy"
+            ],
+            "en": [
+              "History of Khwarazmshahs, Shihab al-Din an-Nasawi"
+            ],
+            "ru": [
+              "История Хорезмшахов, Шихаб ад-Дин ан-Насави"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/TaZj9nlm6WM",
+              "videoTitle": "Xorazmshohlar Imperiyasining Yuksalishi (O'zbek tilida - 90 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/TaZj9nlm6WM",
+              "videoTitle": "Xorazmshohlar Imperiyasining Yuksalishi (O'zbek tilida - 90 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/TaZj9nlm6WM",
+              "videoTitle": "Xorazmshohlar Imperiyasining Yuksalishi (O'zbek tilida - 90 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Ko'hna Urganch xaritasi",
+                "en": "Gurganj Capital Map",
+                "ru": "Карта Гурганджа"
+              },
+              "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Ko'hna Urganch (Gurganj)",
+                  "x": 40,
+                  "y": 35,
+                  "info": "Xorazmshohlar poytaxti va madaniy markazi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Xorazmshohlar imperiyasining poytaxti qaysi shahar edi?",
+              "en": "What was the capital of the Khwarazmian Empire?",
+              "ru": "Какова была столица империи Хорезмшахов?"
+            },
+            "options": {
+              "uz": [
+                "Ko'hna Urganch (Gurganj)",
+                "Samarqand",
+                "Buxoro"
+              ],
+              "en": [
+                "Gurganj (Urgench)",
+                "Samarkand",
+                "Bukhara"
+              ],
+              "ru": [
+                "Гургандж (Ургенч)",
+                "Самарканд",
+                "Бухара"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "41",
+      "category": "history",
+      "title": {
+        "uz": "Samarqand Tarixi",
+        "en": "History of Samarkand",
+        "ru": "История Самарканда"
+      },
+      "author": "O'zbekiston Shaharlari",
+      "genre": "Tarixiy, Hujjatli",
+      "cover": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Yer yuzining sayqali, Rim bilan tengdosh qadimiy Samarqand shahrining shonli tarixi, Buyuk Ipak yo'lidagi o'rni va madaniy obidalari.",
+        "en": "The history of Samarkand, the Pearl of the Earth, coeval with Rome, its pivotal role on the Silk Road and stunning monuments.",
+        "ru": "История Самарканда, жемчужины Востока, ровесника Рима, его ключевой роли на Шелковом пути и великолепных памятников."
+      },
+      "chapters": [
+        {
+          "id": "41-1",
+          "title": {
+            "uz": "1-bob: Afrosiyobdan Registongacha",
+            "en": "Chapter 1: From Afrasiab to Registan",
+            "ru": "Глава 1: От Афрасиаба до Регистана"
+          },
+          "content": {
+            "uz": "Samarqand tarixi miloddan avvalgi asrlarga - Afrosiyob shahriga borib taqaladi. Aleksandr Makedonskiy, Chingizxon va Amir Temur davrlarida shahar turli yuksalish va vayronagarchiliklarni ko'rdi. Temuriylar davrida Samarqand jahonning eng go'zal poytaxtiga aylandi.",
+            "en": "Samarkand's history spans back to ancient Afrasiab. Invaded by Alexander the Great and Genghis Khan, it reached its zenith under Amir Temur as the empire's magnificent capital.",
+            "ru": "История Самарканда восходит к древнему Афрасиабу. Пережив нашествия Македонского и Чингисхана, город достиг расцвета при Амире Темуре как столица империи."
+          },
+          "sources": {
+            "uz": [
+              "Samarqand tarixi, Yahyo G'ulomov"
+            ],
+            "en": [
+              "History of Samarkand, Y. Gulamov"
+            ],
+            "ru": [
+              "История Самарканда, Я. Гулямов"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/7duG4nZG_0Q",
+              "videoTitle": "Samarqand Tarixi va Amir Temur saltanati (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/7duG4nZG_0Q",
+              "videoTitle": "Samarqand Tarixi va Amir Temur saltanati (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/7duG4nZG_0Q",
+              "videoTitle": "Samarqand Tarixi va Amir Temur saltanati (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Samarqand Registan xaritasi",
+                "en": "Samarkand Registan Map",
+                "ru": "Карта Регистана в Самарканде"
+              },
+              "image": "https://images.unsplash.com/photo-1580835239846-5bb9ce03c8c3?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Registon maydoni",
+                  "x": 50,
+                  "y": 50,
+                  "info": "Uchta ulug' madrasa joylashgan markaziy maydon"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Samarqand shahrining qadimgi nomi qanday bo'lgan?",
+              "en": "What was the ancient name of Samarkand?",
+              "ru": "Каково было древнее название Самарканда?"
+            },
+            "options": {
+              "uz": [
+                "Maroqand (Afrosiyob)",
+                "Shosh",
+                "Qubod"
+              ],
+              "en": [
+                "Maracanda (Afrasiab)",
+                "Shash",
+                "Qubad"
+              ],
+              "ru": [
+                "Мараканда (Афрасиаб)",
+                "Шаш",
+                "Кубад"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "42",
+      "category": "history",
+      "title": {
+        "uz": "Sharq Guldastasi - Buxoroi Sharif",
+        "en": "Bukhara the Noble",
+        "ru": "Благородная Бухара"
+      },
+      "author": "O'zbekiston Shaharlari",
+      "genre": "Tarixiy, Islomiy",
+      "cover": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Islom olamining muqaddas shaharlaridan biri, Buxoroi Sharifning 2500 yillik boy tarixi, qadimiy masjid va madrasalari hamda madaniy merosi.",
+        "en": "The 2500-year history of Bukhara the Noble, one of the holy cities of the Islamic world, its ancient mosques and rich heritage.",
+        "ru": "2500-летняя история Благородной Бухары, одного из священных городов ислама, древних мечетей и богатого наследия."
+      },
+      "chapters": [
+        {
+          "id": "42-1",
+          "title": {
+            "uz": "1-bob: Qadimiy Gumbazlar ostida",
+            "en": "Chapter 1: Under Ancient Domes",
+            "ru": "Глава 1: Под древними куполами"
+          },
+          "content": {
+            "uz": "Buxoro Somoniylar davlatining poytaxti bo'lgan davrda ilm-fan markaziga aylandi. Somoniylar maqbarasi, Minorai Kalon va Labi Hovuz majmualari shaharning me'morchilik san'ati va tarixidan guvohlik beradi.",
+            "en": "Bukhara became a global center of science during the Samanid Empire. The Samanid Mausoleum, Kalyan Minaret, and Lyabi-Khauz represent its architectural peaks.",
+            "ru": "Бухара стала мировым центром науки при Саманидах. Мавзолей Саманидов, минарет Калян и Ляби-Хауз отражают вершины её зодчества."
+          },
+          "sources": {
+            "uz": [
+              "Buxoro tarixi, Abu Bakr Narshaxiy"
+            ],
+            "en": [
+              "History of Bukhara, Abu Bakr Narshakhi"
+            ],
+            "ru": [
+              "История Бухары, Абу Бакр Наршахи"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/KwAJfZwTMt4",
+              "videoTitle": "Buxoroi Sharif va Buyuk Ipak Yoli (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/KwAJfZwTMt4",
+              "videoTitle": "Buxoroi Sharif va Buyuk Ipak Yoli (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/KwAJfZwTMt4",
+              "videoTitle": "Buxoroi Sharif va Buyuk Ipak Yoli (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Buxoro Ark qal'asi xaritasi",
+                "en": "Bukhara Ark Citadel Map",
+                "ru": "Карта цитадели Арк в Бухаре"
+              },
+              "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Ark Qal'asi",
+                  "x": 45,
+                  "y": 40,
+                  "info": "Buxoro amirlari qarorgohi bo'lgan qadimiy qal'a"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Buxoro tarixi haqida eng birinchi yozma asarni kim yozgan?",
+              "en": "Who wrote the first historical book about Bukhara?",
+              "ru": "Кто написал первый исторический труд о Бухаре?"
+            },
+            "options": {
+              "uz": [
+                "Abu Bakr Narshaxiy",
+                "Ibn Sino",
+                "Imom al-Buxoriy"
+              ],
+              "en": [
+                "Abu Bakr Narshakhi",
+                "Avicenna",
+                "Imam al-Bukhari"
+              ],
+              "ru": [
+                "Абу Бакр Наршахи",
+                "Ибн Сина",
+                "Имам аль-Бухари"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "43",
+      "category": "history",
+      "title": {
+        "uz": "Xivaning Boqiy Obidalari",
+        "en": "Khiva - The Eternal Monument",
+        "ru": "Хива - Вечный Памятник"
+      },
+      "author": "O'zbekiston Shaharlari",
+      "genre": "Tarixiy, Me'morchilik",
+      "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Ochiq osmon ostidagi muzey shahar – Xiva va uning qadimiy qal'asi Ichan Qal'aning boqiy me'moriy obidalari tarixi.",
+        "en": "The open-air museum city of Khiva, and the history of its ancient inner fortress, Ichan Kala.",
+        "ru": "Город-музей под открытым небом Хива, и история её древней внутренней крепости Ичан-Кала."
+      },
+      "chapters": [
+        {
+          "id": "43-1",
+          "title": {
+            "uz": "1-bob: Ichan Qal'a sirlari",
+            "en": "Chapter 1: Secrets of Ichan Kala",
+            "ru": "Глава 1: Тайны Ичан-Калы"
+          },
+          "content": {
+            "uz": "Ichan Qal'a Markaziy Osiyodagi eng yaxshi saqlanib qolgan qadimiy shahar hisoblanadi. Kalta Minor, Juma masjidi va Toshhovli saroylari Xiva xonligi me'morchiligining go'zalligini namoyon etadi.",
+            "en": "Ichan Kala is the best-preserved ancient city in Central Asia. Kalta Minor and Juma Mosque represent the unique Khiva Khanate architecture.",
+            "ru": "Ичан-Кала — наиболее сохранившийся древний город в Средней Азии. Кальта-Минор и Джума-мечеть отражают уникальное зодчество Хивинского ханства."
+          },
+          "sources": {
+            "uz": [
+              "Xiva tarixi solnoma hujjatlari"
+            ],
+            "en": [
+              "Chronicles of Khiva Khanate"
+            ],
+            "ru": [
+              "Хроники Хивинского ханства"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/7oWVN6HgWVM",
+              "videoTitle": "XIVA Badiiy-hujjatli Filmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/7oWVN6HgWVM",
+              "videoTitle": "XIVA Badiiy-hujjatli Filmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/7oWVN6HgWVM",
+              "videoTitle": "XIVA Badiiy-hujjatli Filmi (O'zbek tilida - 60 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Ichan Qal'a xaritasi",
+                "en": "Ichan Kala Map",
+                "ru": "Карта Ичан-Калы"
+              },
+              "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Kalta Minor minora",
+                  "x": 35,
+                  "y": 60,
+                  "info": "Xivaning eng mashhur tugallanmagan ko'k minorasi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Xivadagi eng mashhur ko'k rangli, tugallanmagan minora qaysi?",
+              "en": "What is the name of Khiva's famous blue, unfinished minaret?",
+              "ru": "Как называется знаменитый голубой, недостроенный минарет в Хиве?"
+            },
+            "options": {
+              "uz": [
+                "Kalta Minor",
+                "Kalon minorasi",
+                "Islomxo'ja minorasi"
+              ],
+              "en": [
+                "Kalta Minor",
+                "Kalyan Minaret",
+                "Islam-Khodja Minaret"
+              ],
+              "ru": [
+                "Кальта-Минор",
+                "Минарет Калян",
+                "Минарет Ислам-Ходжа"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "44",
+      "category": "history",
+      "title": {
+        "uz": "Buyuk Ipak Yo'li",
+        "en": "The Great Silk Road",
+        "ru": "Великий Шелковый Путь"
+      },
+      "author": "Jahon Savdo Tarixi",
+      "genre": "Tarixiy, Hujjatli",
+      "cover": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Sharq va G'arbni bog'lagan, madaniyatlar, dinlar hamda tovarlar almashinuviga xizmat qilgan qadimiy savdo yo'li tarixi.",
+        "en": "The history of the ancient trade route connecting East and West, facilitating exchange of goods, culture, and science.",
+        "ru": "История древнего торгового пути, связавшего Восток и Запад, содействовавшего обмену товарами, культурой и наукой."
+      },
+      "chapters": [
+        {
+          "id": "44-1",
+          "title": {
+            "uz": "1-bob: Karvonlar chorrahasi",
+            "en": "Chapter 1: Crossroads of Caravans",
+            "ru": "Глава 1: Перекресток караванов"
+          },
+          "content": {
+            "uz": "Buyuk Ipak yo'li Xitoydan boshlanib, O'rta Osiyo orqali O'rta yer dengiziga qadar cho'zilgan. O'zbekistonning Samarqand, Buxoro va Xiva shaharlari ushbu yo'lning asosiy karvon chorrahalari bo'lgan.",
+            "en": "The Silk Road stretched from China to the Mediterranean. Uzbek cities like Samarkand, Bukhara, and Khiva served as key caravan crossroads.",
+            "ru": "Шелковый путь простирался от Китая до Средиземноморья. Узбекские города Самарканд, Бухара и Хива служили ключевыми перекрестками караванов."
+          },
+          "sources": {
+            "uz": [
+              "Buyuk ipak yo'li tarixi, Jahon savdo akademiyasi"
+            ],
+            "en": [
+              "The Silk Road History, Global Trade Academy"
+            ],
+            "ru": [
+              "История Шелкового пути, Мировая торговая академия"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/oUfb9PUjq2w",
+              "videoTitle": "Buyuk Ipak Yoli Hujjatli Filmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/oUfb9PUjq2w",
+              "videoTitle": "Buyuk Ipak Yoli Hujjatli Filmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/oUfb9PUjq2w",
+              "videoTitle": "Buyuk Ipak Yoli Hujjatli Filmi (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Ipak Yo'li yo'nalishlari xaritasi",
+                "en": "Silk Road Routes Map",
+                "ru": "Карта маршрутов Шелкового пути"
+              },
+              "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Karvon yo'li",
+                  "x": 50,
+                  "y": 45,
+                  "info": "Markaziy Osiyodan o'tgan asosiy savdo yo'nalishi"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Buyuk Ipak yo'lining asosiy tovari nima bo'lgan?",
+              "en": "What was the primary commodity traded along the Silk Road?",
+              "ru": "Каков был основной товар на Шелковом пути?"
+            },
+            "options": {
+              "uz": [
+                "Ipak",
+                "Tilla",
+                "Ziravorlar"
+              ],
+              "en": [
+                "Silk",
+                "Gold",
+                "Spices"
+              ],
+              "ru": [
+                "Шелк",
+                "Золото",
+                "Специи"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "45",
+      "category": "history",
+      "title": {
+        "uz": "Qadimgi Xorazm",
+        "en": "Ancient Khwarazm",
+        "ru": "Древний Хорезм"
+      },
+      "author": "Markaziy Osiyo Arxeologiyasi",
+      "genre": "Tarixiy, Arxeologiya",
+      "cover": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?q=80&w=400&auto=format&fit=crop",
+      "description": {
+        "uz": "Markaziy Osiyodagi eng qadimgi sivilizatsiyalardan biri – Xorazm vohasining qadimiy qal'alari va o'tmishi tarixi.",
+        "en": "One of the oldest civilizations of Central Asia - the history of the ancient fortresses of the Khwarazm oasis.",
+        "ru": "Одна из древнейших цивилизаций Средней Азии — история древних крепостей Хорезмского оазиса."
+      },
+      "chapters": [
+        {
+          "id": "45-1",
+          "title": {
+            "uz": "1-bob: Tuproqqal'a va Ayazqal'a",
+            "en": "Chapter 1: Tupraq-Kala and Ayaz-Kala",
+            "ru": "Глава 1: Топрак-Кала и Аяз-Кала"
+          },
+          "content": {
+            "uz": "Qadimgi Xorazm o'zining mustahkam mudofaa qal'alari bilan mashhur bo'lgan. Tuproqqal'a va Ayazqal'a arxeologik yodgorliklari qadimiy xorazmshohlar davlatchiligi va madaniyatidan dalolat beradi.",
+            "en": "Ancient Khwarazm was renowned for its defensive fortresses. Tupraq-Kala and Ayaz-Kala show the advanced architecture of early Khwarazmian statehood.",
+            "ru": "Древний Хорезм славился своими оборонительными крепостями. Топрак-Кала и Аяз-Кала отражают передовое зодчество ранней государственности."
+          },
+          "sources": {
+            "uz": [
+              "Xorazm vohasi arxeologik qidiruv hisobotlari"
+            ],
+            "en": [
+              "Archaeological Research of Khwarazm Oasis"
+            ],
+            "ru": [
+              "Археологические исследования Хорезмского оазиса"
+            ]
+          },
+          "media": {
+            "uz": {
+              "videoUrl": "https://www.youtube.com/embed/m5yJzyR1EvQ",
+              "videoTitle": "Qadimgi Xorazm Malikalar (O'zbek tilida - 45 daqiqa)"
+            },
+            "en": {
+              "videoUrl": "https://www.youtube.com/embed/m5yJzyR1EvQ",
+              "videoTitle": "Qadimgi Xorazm Malikalar (O'zbek tilida - 45 daqiqa)"
+            },
+            "ru": {
+              "videoUrl": "https://www.youtube.com/embed/m5yJzyR1EvQ",
+              "videoTitle": "Qadimgi Xorazm Malikalar (O'zbek tilida - 45 daqiqa)"
+            },
+            "map": {
+              "title": {
+                "uz": "Ayazqal'a qal'asi xaritasi",
+                "en": "Ayaz-Kala Fortress Map",
+                "ru": "Карта крепости Аяз-Кала"
+              },
+              "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+              "hotspots": [
+                {
+                  "name": "Ayazqal'a tepaligi",
+                  "x": 45,
+                  "y": 55,
+                  "info": "Cho'l o'rtasidagi ulkan arxeologik yodgorlik"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "quiz": {
+        "questions": [
+          {
+            "id": 1,
+            "question": {
+              "uz": "Qadimgi Xorazmning mashhur sahrodagi qal'asi qanday nomlanadi?",
+              "en": "What is the name of the famous desert fortress of ancient Khwarazm?",
+              "ru": "Как называется знаменитая пустынная крепость древнего Хорезма?"
+            },
+            "options": {
+              "uz": [
+                "Ayazqal'a",
+                "Ark",
+                "Ichan Qal'a"
+              ],
+              "en": [
+                "Ayaz-Kala",
+                "Ark",
+                "Ichan Kala"
+              ],
+              "ru": [
+                "Аяз-Кала",
+                "Арк",
+                "Ичан-Кала"
+              ]
+            },
+            "answer": 0
+          }
+        ]
+      }
+    }
+  ],
+  "comments": []
+}
