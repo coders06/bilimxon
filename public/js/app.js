@@ -3,11 +3,15 @@ document.addEventListener('DOMContentLoaded', () => {
     // 0. API CONFIGURATION
     // ==========================================================================
     // O'zingizning haqiqiy NestJS backend URL'ingizni quyidagi o'zgaruvchiga yozing (oxirida / belgisiz):
-    const DEPLOYED_BACKEND_URL = 'https://your-nestjs-backend.onrender.com';
+   // ==========================================================================
+// 0. API CONFIGURATION
+// ==========================================================================
 
-    const API_BASE = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
-        ? 'http://localhost:3001'
-        : DEPLOYED_BACKEND_URL = 'https://bilimxon-backend.onrender.com';
+const DEPLOYED_BACKEND_URL = 'https://bilimxon-backend.onrender.com';
+
+const API_BASE = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+    ? 'http://localhost:3001'
+    : DEPLOYED_BACKEND_URL;
 
     // ==========================================================================
     // 1. STATE VARIABLES
