@@ -7,7 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Agar to'g'ridan-to'g'ri backend serverga so'rov yuborish kerak bo'lsa, quyidagi o'zgaruvchini o'zingizning backend URL'ingiz bilan almashtiring.
     const API_BASE = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
         ? 'http://localhost:3001'
-        : ''; // Agar bo'sh qolsa, Netlify proxy redirect (netlify.toml) orqali ishlaydi.
+        : 'https://sening-backend-urling.com';
+         ''; // Agar bo'sh qolsa, Netlify proxy redirect (netlify.toml) orqali ishlaydi.
 
     // ==========================================================================
     // 1. STATE VARIABLES
@@ -705,12 +706,6 @@ document.addEventListener('DOMContentLoaded', () => {
         // Append Bot Typing Loading indicator
         const loadingDiv = appendChatMessage('bot', `<i class="fas fa-spinner fa-spin"></i> Bilimxon o'ylamoqda...`);
 
-        if (isStaticMode) {
-            loadingDiv.remove();
-            appendChatMessage('bot', "Assalomu alaykum! Men bilimdon AI maslahatchisiman. Hozirda sayt Netlify (Static Hosting) orqali yuklangani sababli sun'iy intellekt backend serverimizga ulanib bo'lmadi. AI bilan muloqot qilish uchun loyihani mahalliy (local) serverda ishga tushiring.");
-            return;
-        }
-
         try {
             const res = await fetch(`${API_BASE}/api/ai-chat`, {
                 method: 'POST',
@@ -792,13 +787,20 @@ document.addEventListener('DOMContentLoaded', () => {
         quizProgressFill.style.width = `${progressPercent}%`;
         quizQuestionNumber.textContent = `${currentQuestionIdx + 1}-savol`;
         
-        quizQuestionText.textContent = q.question;
+        const getLocalizedValue = (val) => {
+            if (val && typeof val === 'object') {
+                return val[currentLanguage] || val['uz'] || Object.values(val)[0] || '';
+            }
+            return val || '';
+        };
+
+        quizQuestionText.textContent = getLocalizedValue(q.question);
         quizOptionsList.innerHTML = '';
         
         q.options.forEach((opt, idx) => {
             const btn = document.createElement('button');
             btn.className = 'quiz-opt-btn';
-            btn.textContent = opt;
+            btn.textContent = getLocalizedValue(opt);
             btn.addEventListener('click', () => selectQuizAnswer(idx));
             quizOptionsList.appendChild(btn);
         });
@@ -856,7 +858,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Fill certificate template details
         certDisplayName.textContent = name.toUpperCase();
-        certDisplayBook.textContent = activeBook ? activeBook.title.toUpperCase() : "Platforma Kursi";
+        const bookTitle = activeBook 
+            ? (typeof activeBook.title === 'object' ? activeBook.title[currentLanguage] : activeBook.title)
+            : "Platforma Kursi";
+        certDisplayBook.textContent = bookTitle.toUpperCase();
         certDate.textContent = new Date().toLocaleDateString();
 
         // Reveal Certificate modal
