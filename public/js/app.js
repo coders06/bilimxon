@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const API_BASE = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
         ? 'http://localhost:3001'
-        : DEPLOYED_BACKEND_URL;
+        : DEPLOYED_BACKEND_URL = 'https://bilimxon-backend.onrender.com';
 
     // ==========================================================================
     // 1. STATE VARIABLES
